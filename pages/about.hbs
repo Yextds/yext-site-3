@@ -1,0 +1,40 @@
+---
+{
+ "urlFormat": "about.html"
+}
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title> {{global.name}}</title>
+  <meta name="description" content="{{global.name}}">
+  {{>head}}
+  <!--Replace with your tailwind.css once created-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+
+<body class="bg-white leading-normal text-sm md:text-base text-blackLight tracking-normal font-worksans">
+  {{>navbar}}
+  {{>about-content}}
+
+
+  {{>newsletter}}
+  {{>footer}}
+
+</body>
+</html>
+<style type="text/css">
+  .product-info-main .product-info-price{position: relative;}
+  .product-info-main .product-info-price .express-delivery{position: absolute; bottom: 0; left: 220px;}
+  .product-info-main .product-info-price .express-delivery img{padding-bottom: 0 !important;}
+  @media screen and (max-width: 767px){
+    .product-info-main .product-info-price .express-delivery{left: 180px;}
+  }
+</style>
