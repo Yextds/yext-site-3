@@ -1,0 +1,81 @@
+{
+	"id": "hat-10",
+	"richTextDescription": "Artesano's hats are made from Toquilla straw that's carefully hand-cut and sourced from the leaves of a Carludovica Palmata plant, so it can take up to four months to finish just one. This 'Santarem' style has a wide, structured brim and is decorated with the label's signature tagua beads.",
+	"brand": "Artesano",
+	"slug": "hats/hat-10.html",
+	"price": {
+		"value": "260",
+		"currencyCode": "USD"
+	},
+	"color": "Camel",
+	"photoGallery": [
+		{
+			"image": {
+				"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/920x1380.jpg",
+				"width": 920,
+				"height": 1380,
+				"thumbnails": [
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/920x1380.jpg",
+						"width": 920,
+						"height": 1380
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/619x928.jpg",
+						"width": 619,
+						"height": 928
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/300x450.jpg",
+						"width": 300,
+						"height": 450
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/196x294.jpg",
+						"width": 196,
+						"height": 294
+					}
+				]
+			}
+		},
+		{
+			"image": {
+				"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/920x1380.jpg",
+				"width": 920,
+				"height": 1380,
+				"thumbnails": [
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/920x1380.jpg",
+						"width": 920,
+						"height": 1380
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/619x928.jpg",
+						"width": 619,
+						"height": 928
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/300x450.jpg",
+						"width": 300,
+						"height": 450
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/196x294.jpg",
+						"width": 196,
+						"height": 294
+					}
+				]
+			}
+		}
+	],
+	"uid": 14745781,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 30000,
+			"id": "product"
+		},
+		"updateTimestamp": "2021-11-09T14:28:33Z"
+	},
+	"name": "Santarem bead-embellished straw Panama hat"
+}

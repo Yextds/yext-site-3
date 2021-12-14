@@ -1,0 +1,757 @@
+{
+	"richTextDescription": "Elevate your wardrobe with our collection of designer pants and trousers. Whether you're looking for formal officewear, casual pants for a relaxing weekend, or dress pants for your next evening engagement, you will be sure to find the perfect piece among our selection.",
+	"c_relatedProducts": [
+		{
+			"slug": "bottoms/bottom-1.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/8uNm-ZMnS51Nfy-fJr9GPkjMWFkM_lP-wmNUS2UccsA/864x1080.jpg",
+						"width": 864,
+						"height": 1080,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/8uNm-ZMnS51Nfy-fJr9GPkjMWFkM_lP-wmNUS2UccsA/864x1080.jpg",
+								"width": 864,
+								"height": 1080
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/8uNm-ZMnS51Nfy-fJr9GPkjMWFkM_lP-wmNUS2UccsA/619x774.jpg",
+								"width": 619,
+								"height": 774
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/8uNm-ZMnS51Nfy-fJr9GPkjMWFkM_lP-wmNUS2UccsA/360x450.jpg",
+								"width": 360,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/8uNm-ZMnS51Nfy-fJr9GPkjMWFkM_lP-wmNUS2UccsA/196x245.jpg",
+								"width": 196,
+								"height": 245
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/yhuIrUL7eakJJS3a1iQodTfbroYkpaziV3S5WgxU02Q/864x1080.png",
+						"width": 864,
+						"height": 1080,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/yhuIrUL7eakJJS3a1iQodTfbroYkpaziV3S5WgxU02Q/864x1080.png",
+								"width": 864,
+								"height": 1080
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/yhuIrUL7eakJJS3a1iQodTfbroYkpaziV3S5WgxU02Q/619x774.png",
+								"width": 619,
+								"height": 774
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/yhuIrUL7eakJJS3a1iQodTfbroYkpaziV3S5WgxU02Q/360x450.png",
+								"width": 360,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/yhuIrUL7eakJJS3a1iQodTfbroYkpaziV3S5WgxU02Q/196x245.png",
+								"width": 196,
+								"height": 245
+							}
+						]
+					}
+				}
+			],
+			"brand": "Nike",
+			"price": {
+				"value": "45",
+				"currencyCode": "USD"
+			},
+			"color": "Chlorine Blue/Black",
+			"richTextDescription": "The Nike Sportswear Shorts have a breathable mesh lining and lightweight woven fabric. The back pocket has a drainage grommet ideal for days spent in or out of the water.",
+			"name": "Nike Sportswear Shorts"
+		},
+		{
+			"price": {
+				"value": "1250",
+				"currencyCode": "USD"
+			},
+			"color": "Green",
+			"richTextDescription": "Taking cues from basketball styles, Gucci's shorts are cut in a longer length from technical jersey with a silky handle. They're printed all-over with the house's 'Marmont' monogram and trimmed with recognisable red and green webbing.",
+			"name": "Webbing-Trimmed Monogrammed Tech-Jersey Drawstring Shorts",
+			"slug": "bottoms/bottom-2.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/FhmXhn_ymETgDFdxSpMQljlXn-G02JTrt9KVY5RDgQo/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/FhmXhn_ymETgDFdxSpMQljlXn-G02JTrt9KVY5RDgQo/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/FhmXhn_ymETgDFdxSpMQljlXn-G02JTrt9KVY5RDgQo/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/FhmXhn_ymETgDFdxSpMQljlXn-G02JTrt9KVY5RDgQo/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/FhmXhn_ymETgDFdxSpMQljlXn-G02JTrt9KVY5RDgQo/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Gucci"
+		},
+		{
+			"color": "Multi",
+			"richTextDescription": "Ms Chitose Abe collaborates with American conceptual artist Mr Hank Willis Thomas for SS21, choosing to revive several of Sacai's archival prints. Made in Japan, these shorts are patchworked together from twill swatches in leopard, florals, graphic shapes and various scenes. They have a wide-leg, dropped-seat shape and coordinating integrated belt.",
+			"name": "Hank Willis Thomas Wide-Leg Logo-Appliquéd Pendleton-Print Patchwork Twill Shorts",
+			"slug": "bottoms/bottom-3.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/X0pXyn8xRIN6G5MVILDkbpMc5Ss9Y1yTTprwisl6boI/560x747.jpg",
+						"width": 560,
+						"height": 747,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/X0pXyn8xRIN6G5MVILDkbpMc5Ss9Y1yTTprwisl6boI/560x747.jpg",
+								"width": 560,
+								"height": 747
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/X0pXyn8xRIN6G5MVILDkbpMc5Ss9Y1yTTprwisl6boI/337x450.jpg",
+								"width": 337,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/X0pXyn8xRIN6G5MVILDkbpMc5Ss9Y1yTTprwisl6boI/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Sacai",
+			"price": {
+				"value": "1105",
+				"currencyCode": "USD"
+			}
+		},
+		{
+			"price": {
+				"value": "990",
+				"currencyCode": "USD"
+			},
+			"color": "Black",
+			"richTextDescription": "AMIRI's SS20 show at Paris' Musée des Arts Décoratifs paid tribute to the spirit of Woodstock. These comfortable shorts are cut from smooth silk-twill and printed with symmetrical egrets, which are symbolic of peace and harmony. Use the drawstring waistband to adjust the fit.",
+			"name": "Printed Silk-Twill Drawstring Shorts",
+			"slug": "bottoms/bottom-4.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/2000x2667.jpg",
+						"width": 2000,
+						"height": 2667,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/2000x2667.jpg",
+								"width": 2000,
+								"height": 2667
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/1425x1900.jpg",
+								"width": 1425,
+								"height": 1900
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/337x450.jpg",
+								"width": 337,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Amiri"
+		},
+		{
+			"name": "Ken Scott Wide-Leg Floral-Print Silk-Crepe Shorts",
+			"slug": "bottoms/bottom-5.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/Oozm6vIgy__pbW3LBFGsaCmzmxcRxJJ1piZVn-7al_g/560x747.jpg",
+						"width": 560,
+						"height": 747,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Oozm6vIgy__pbW3LBFGsaCmzmxcRxJJ1piZVn-7al_g/560x747.jpg",
+								"width": 560,
+								"height": 747
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Oozm6vIgy__pbW3LBFGsaCmzmxcRxJJ1piZVn-7al_g/337x450.jpg",
+								"width": 337,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Oozm6vIgy__pbW3LBFGsaCmzmxcRxJJ1piZVn-7al_g/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Gucci",
+			"price": {
+				"value": "980",
+				"currencyCode": "USD"
+			},
+			"color": "Green",
+			"richTextDescription": "Nicknamed 'The Fashion Gardener' for his vibrant botanical prints, Mr Ken Scott helped develop the floral motifs we now so readily associate with the '60s and '70s. Gucci's silk-crepe shorts showcase oversized daisies from the American designer's archive and are appliquéd with an emblem on the back."
+		},
+		{
+			"richTextDescription": "Gucci's AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit.",
+			"name": "Wide-Leg Pleated Wool-Flannel Shorts",
+			"slug": "bottoms/bottom-6.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/2000x2667.jpg",
+						"width": 2000,
+						"height": 2667,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/2000x2667.jpg",
+								"width": 2000,
+								"height": 2667
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/1425x1900.jpg",
+								"width": 1425,
+								"height": 1900
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/337x450.jpg",
+								"width": 337,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Gucci",
+			"price": {
+				"value": "950",
+				"currencyCode": "USD"
+			},
+			"color": "Gray"
+		},
+		{
+			"slug": "bottoms/bottom-7.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/9HGQxRKsvYVjPt4TVss_5z67EcxFARWUhZAhNPCKXkI/512x1416.jpg",
+						"width": 512,
+						"height": 1416,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/9HGQxRKsvYVjPt4TVss_5z67EcxFARWUhZAhNPCKXkI/512x1416.jpg",
+								"width": 512,
+								"height": 1416
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/9HGQxRKsvYVjPt4TVss_5z67EcxFARWUhZAhNPCKXkI/362x1000.jpg",
+								"width": 362,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/9HGQxRKsvYVjPt4TVss_5z67EcxFARWUhZAhNPCKXkI/163x450.jpg",
+								"width": 163,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/9HGQxRKsvYVjPt4TVss_5z67EcxFARWUhZAhNPCKXkI/145x400.jpg",
+								"width": 145,
+								"height": 400
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/9q-zliYnwgj61uqOj-PzM_jz29E4WXT-NOadVB-zIcY/480x1408.jpg",
+						"width": 480,
+						"height": 1408,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/9q-zliYnwgj61uqOj-PzM_jz29E4WXT-NOadVB-zIcY/480x1408.jpg",
+								"width": 480,
+								"height": 1408
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/9q-zliYnwgj61uqOj-PzM_jz29E4WXT-NOadVB-zIcY/341x1000.jpg",
+								"width": 341,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/9q-zliYnwgj61uqOj-PzM_jz29E4WXT-NOadVB-zIcY/153x450.jpg",
+								"width": 153,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/9q-zliYnwgj61uqOj-PzM_jz29E4WXT-NOadVB-zIcY/136x400.jpg",
+								"width": 136,
+								"height": 400
+							}
+						]
+					}
+				}
+			],
+			"brand": "Gucci",
+			"color": "Brown",
+			"richTextDescription": "Tapered technical jersey lounge pants featuring logo pattern in brown and beige and multicolor graphic print throughout. Mid\\-rise. Drawstring in off\\-white at elasticized waistband. Two\\-pocket styling. Tape trim in red and green at outseams.",
+			"name": "Brown GG Flora Lounge Pants"
+		},
+		{
+			"name": "Beige GG Logo Lounge Pants",
+			"slug": "bottoms/bottom-8.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/472x1408.jpg",
+						"width": 472,
+						"height": 1408,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/472x1408.jpg",
+								"width": 472,
+								"height": 1408
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/335x1000.jpg",
+								"width": 335,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/151x450.jpg",
+								"width": 151,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/134x400.jpg",
+								"width": 134,
+								"height": 400
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/469x1408.jpg",
+						"width": 469,
+						"height": 1408,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/469x1408.jpg",
+								"width": 469,
+								"height": 1408
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/333x1000.jpg",
+								"width": 333,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/150x450.jpg",
+								"width": 150,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/133x400.jpg",
+								"width": 133,
+								"height": 400
+							}
+						]
+					}
+				}
+			],
+			"brand": "Gucci",
+			"price": {
+				"value": "20",
+				"currencyCode": "USD"
+			},
+			"color": "Camel",
+			"richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige."
+		},
+		{
+			"brand": "Palm Angels",
+			"price": {
+				"value": "470.99",
+				"currencyCode": "USD"
+			},
+			"color": "Light Blue",
+			"richTextDescription": "Relaxed\\-fit cotton poplin lounge pants striped in blue and white. High\\-rise. Graphic pattern printed in yellow and black throughout. Two\\-pocket styling. Belt loops at elasticized waistband. Detachable self\\-tie belt at waistband. Logo embroidered in blue at front leg.",
+			"name": "Blue Bear Pajama Lounge Pants",
+			"slug": "bottoms/bottom-9.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/l0fFmYvYT38YSX9xL7ZJWjb6UaNhg9_QpxBGq0JeMdk/536x1408.jpg",
+						"width": 536,
+						"height": 1408,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/l0fFmYvYT38YSX9xL7ZJWjb6UaNhg9_QpxBGq0JeMdk/536x1408.jpg",
+								"width": 536,
+								"height": 1408
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/l0fFmYvYT38YSX9xL7ZJWjb6UaNhg9_QpxBGq0JeMdk/381x1000.jpg",
+								"width": 381,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/l0fFmYvYT38YSX9xL7ZJWjb6UaNhg9_QpxBGq0JeMdk/171x450.jpg",
+								"width": 171,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/l0fFmYvYT38YSX9xL7ZJWjb6UaNhg9_QpxBGq0JeMdk/152x400.jpg",
+								"width": 152,
+								"height": 400
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/x1aNLRAnQ4T-8zf_iL9hIJmgp-F2pc3Z6dNVn0lQMa4/392x1392.jpg",
+						"width": 392,
+						"height": 1392,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/x1aNLRAnQ4T-8zf_iL9hIJmgp-F2pc3Z6dNVn0lQMa4/392x1392.jpg",
+								"width": 392,
+								"height": 1392
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/x1aNLRAnQ4T-8zf_iL9hIJmgp-F2pc3Z6dNVn0lQMa4/282x1000.jpg",
+								"width": 282,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/x1aNLRAnQ4T-8zf_iL9hIJmgp-F2pc3Z6dNVn0lQMa4/127x450.jpg",
+								"width": 127,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/x1aNLRAnQ4T-8zf_iL9hIJmgp-F2pc3Z6dNVn0lQMa4/113x400.jpg",
+								"width": 113,
+								"height": 400
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/6qCYI5DSU4saumAVELmaV6WTqNcUH0JyYQMV6Re6bFs/560x1416.jpg",
+						"width": 560,
+						"height": 1416,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6qCYI5DSU4saumAVELmaV6WTqNcUH0JyYQMV6Re6bFs/560x1416.jpg",
+								"width": 560,
+								"height": 1416
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6qCYI5DSU4saumAVELmaV6WTqNcUH0JyYQMV6Re6bFs/395x1000.jpg",
+								"width": 395,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6qCYI5DSU4saumAVELmaV6WTqNcUH0JyYQMV6Re6bFs/178x450.jpg",
+								"width": 178,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6qCYI5DSU4saumAVELmaV6WTqNcUH0JyYQMV6Re6bFs/158x400.jpg",
+								"width": 158,
+								"height": 400
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/B19m5ah_2M2fRIU6teet361NFff8wp4KVOOTd_edALs/464x1408.jpg",
+						"width": 464,
+						"height": 1408,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/B19m5ah_2M2fRIU6teet361NFff8wp4KVOOTd_edALs/464x1408.jpg",
+								"width": 464,
+								"height": 1408
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/B19m5ah_2M2fRIU6teet361NFff8wp4KVOOTd_edALs/330x1000.jpg",
+								"width": 330,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/B19m5ah_2M2fRIU6teet361NFff8wp4KVOOTd_edALs/148x450.jpg",
+								"width": 148,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/B19m5ah_2M2fRIU6teet361NFff8wp4KVOOTd_edALs/132x400.jpg",
+								"width": 132,
+								"height": 400
+							}
+						]
+					}
+				}
+			],
+			"brand": "Nina Ricci",
+			"color": "Lilac",
+			"richTextDescription": "Straight\\-leg cotton and silk\\-blend twill trousers in pink. High\\-rise. Four\\-pocket styling. Belt loops at waistband. Pleats at front. Flap pocket and hammer loop at outseams. Central creases at back. Zip\\-fly. Partial silk satin lining. Logo\\-engraved grey hardware.",
+			"name": "Pink Twill Cargo Trousers",
+			"slug": "bottoms/bottom-10.html"
+		},
+		{
+			"name": "Multicolor Faye Wei Wei Marbled Jeans",
+			"slug": "bottoms/bottom-11.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/600x1416.jpg",
+						"width": 600,
+						"height": 1416,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/600x1416.jpg",
+								"width": 600,
+								"height": 1416
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/424x1000.jpg",
+								"width": 424,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/191x450.jpg",
+								"width": 191,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/169x400.jpg",
+								"width": 169,
+								"height": 400
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/409x1392.jpg",
+						"width": 409,
+						"height": 1392,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/409x1392.jpg",
+								"width": 409,
+								"height": 1392
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/294x1000.jpg",
+								"width": 294,
+								"height": 1000
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/132x450.jpg",
+								"width": 132,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/118x400.jpg",
+								"width": 118,
+								"height": 400
+							}
+						]
+					}
+				}
+			],
+			"brand": "Chopova Lowena",
+			"color": "Multi",
+			"richTextDescription": "Wide\\-leg non\\-stretch denim jeans featuring pattern in multicolor throughout. Mid\\-rise. Two\\-pocket styling. Belt loops at waistband. Textile patch at front and back waistband. Zip\\-fly. Silver\\-tone hardware. Contrast stitching in tan."
+		}
+	],
+	"id": "bottoms",
+	"uid": 14745777,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 72700,
+			"id": "ce_productCategory"
+		},
+		"updateTimestamp": "2021-11-09T14:28:33Z"
+	},
+	"name": "Bottoms",
+	"slug": "bottoms.html"
+}

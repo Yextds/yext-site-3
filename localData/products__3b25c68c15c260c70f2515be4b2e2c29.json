@@ -1,0 +1,76 @@
+{
+	"id": "hat-14",
+	"richTextDescription": "Multi\\-colored Adult Propeller Hat. The rainbow propeller top hat is made of polyester, soft and comfortable. A great comical novelty item. Plastic Propeller attached on top of Hat. Attention grabbing colorful panels, fun for party, parades, costume events, and casual use.",
+	"brand": "Interstellar Propeller",
+	"color": "Rainbow",
+	"photoGallery": [
+		{
+			"image": {
+				"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/679x588.jpg",
+				"width": 679,
+				"height": 588,
+				"thumbnails": [
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/679x588.jpg",
+						"width": 679,
+						"height": 588
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/619x536.jpg",
+						"width": 619,
+						"height": 536
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/520x450.jpg",
+						"width": 520,
+						"height": 450
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/196x170.jpg",
+						"width": 196,
+						"height": 170
+					}
+				]
+			}
+		},
+		{
+			"image": {
+				"url": "http://a.mktgcdn.com/p-sandbox/lGm3QPLVnz04XJ6AvVZDpr6Xgq1_X9mkAGLwfW2FAIg/500x500.jpg",
+				"width": 500,
+				"height": 500,
+				"thumbnails": [
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/lGm3QPLVnz04XJ6AvVZDpr6Xgq1_X9mkAGLwfW2FAIg/500x500.jpg",
+						"width": 500,
+						"height": 500
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/lGm3QPLVnz04XJ6AvVZDpr6Xgq1_X9mkAGLwfW2FAIg/450x450.jpg",
+						"width": 450,
+						"height": 450
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/lGm3QPLVnz04XJ6AvVZDpr6Xgq1_X9mkAGLwfW2FAIg/196x196.jpg",
+						"width": 196,
+						"height": 196
+					}
+				]
+			}
+		}
+	],
+	"uid": 14745779,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 30000,
+			"id": "product"
+		},
+		"updateTimestamp": "2021-11-10T14:30:54Z"
+	},
+	"name": "Adult Propeller Baseball Hat",
+	"slug": "hats/hat-14.html",
+	"price": {
+		"value": "16.50",
+		"currencyCode": "USD"
+	}
+}

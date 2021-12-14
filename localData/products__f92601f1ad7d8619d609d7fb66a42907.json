@@ -1,0 +1,81 @@
+{
+	"id": "bottom-8",
+	"richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige.",
+	"brand": "Gucci",
+	"slug": "bottoms/bottom-8.html",
+	"price": {
+		"value": "20",
+		"currencyCode": "USD"
+	},
+	"color": "Camel",
+	"photoGallery": [
+		{
+			"image": {
+				"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/472x1408.jpg",
+				"width": 472,
+				"height": 1408,
+				"thumbnails": [
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/472x1408.jpg",
+						"width": 472,
+						"height": 1408
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/335x1000.jpg",
+						"width": 335,
+						"height": 1000
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/151x450.jpg",
+						"width": 151,
+						"height": 450
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Uopjk6m4n1RwYtzp9p8iYnCfuHhCvFBY5eYxw9VSw7g/134x400.jpg",
+						"width": 134,
+						"height": 400
+					}
+				]
+			}
+		},
+		{
+			"image": {
+				"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/469x1408.jpg",
+				"width": 469,
+				"height": 1408,
+				"thumbnails": [
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/469x1408.jpg",
+						"width": 469,
+						"height": 1408
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/333x1000.jpg",
+						"width": 333,
+						"height": 1000
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/150x450.jpg",
+						"width": 150,
+						"height": 450
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/3-p933Ve7dORwL0wMMm_evvuUu86O1v2iJ8Y0MTSIEk/133x400.jpg",
+						"width": 133,
+						"height": 400
+					}
+				]
+			}
+		}
+	],
+	"uid": 14745786,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 30000,
+			"id": "product"
+		},
+		"updateTimestamp": "2021-11-09T14:28:34Z"
+	},
+	"name": "Beige GG Logo Lounge Pants"
+}

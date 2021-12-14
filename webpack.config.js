@@ -6,7 +6,6 @@ module.exports = {
     mode: 'production',
     entry: {
         index: './src/index.js',
-
       }, 
     output: {
         filename: 'index.bundle.js',

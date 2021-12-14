@@ -1,0 +1,922 @@
+{
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 72700,
+			"id": "ce_productCategory"
+		},
+		"updateTimestamp": "2021-11-09T14:28:33Z"
+	},
+	"name": "Hats",
+	"slug": "hats.html",
+	"richTextDescription": "A hat says a great deal about your personal sense of style. Are you a trilby or fedora kind of person? Is a flat cap or a Panama more your style? Explore our collection of designer hats and caps, including everything from Balenciaga beanies to bucket hats from Polo Ralph Lauren.",
+	"c_relatedProducts": [
+		{
+			"color": "Blue",
+			"richTextDescription": "Wide-leg pants, light-wash denim - '90s trends are back, and crocheted buckets hats are up next. AMIRI's version is designed with stripes and has a hidden wire in the brim so you can adjust the shape.",
+			"name": "Striped Crocheted Cotton Bucket Hat",
+			"slug": "hats/hat-1.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/b-7A871D5gjfo5IzLLbptTH8ygLVuQqOIaUdIbSYJU0/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/b-7A871D5gjfo5IzLLbptTH8ygLVuQqOIaUdIbSYJU0/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/b-7A871D5gjfo5IzLLbptTH8ygLVuQqOIaUdIbSYJU0/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/b-7A871D5gjfo5IzLLbptTH8ygLVuQqOIaUdIbSYJU0/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/b-7A871D5gjfo5IzLLbptTH8ygLVuQqOIaUdIbSYJU0/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Amiri",
+			"price": {
+				"value": "590",
+				"currencyCode": "USD"
+			}
+		},
+		{
+			"slug": "hats/hat-2.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/_E-6EhWryKFrs7n5u__9J57JcnWlV05lrRyzyk-0iT8/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/_E-6EhWryKFrs7n5u__9J57JcnWlV05lrRyzyk-0iT8/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/_E-6EhWryKFrs7n5u__9J57JcnWlV05lrRyzyk-0iT8/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/_E-6EhWryKFrs7n5u__9J57JcnWlV05lrRyzyk-0iT8/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/_E-6EhWryKFrs7n5u__9J57JcnWlV05lrRyzyk-0iT8/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/ondMJeH_S1qmBqcbOWuUoV_YBIoEEeNlaNK92DBTXYY/560x747.jpg",
+						"width": 560,
+						"height": 747,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/ondMJeH_S1qmBqcbOWuUoV_YBIoEEeNlaNK92DBTXYY/560x747.jpg",
+								"width": 560,
+								"height": 747
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/ondMJeH_S1qmBqcbOWuUoV_YBIoEEeNlaNK92DBTXYY/337x450.jpg",
+								"width": 337,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/ondMJeH_S1qmBqcbOWuUoV_YBIoEEeNlaNK92DBTXYY/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Gucci",
+			"price": {
+				"value": "590",
+				"currencyCode": "USD"
+			},
+			"color": "Green",
+			"richTextDescription": "Gucci's bucket hat is reversible, so there are double the styling options. Appliquéd with the house's emblem, it's made from monogrammed cotton-blend canvas on one side and midnight-blue twill on the other.",
+			"name": "Reversible Leather-Trimmed Logo-Jacquard Cotton-Blend Canvas Bucket Hat"
+		},
+		{
+			"name": "Sony Logo-Embroidered Cotton-Twill Baseball Cap",
+			"slug": "hats/hat-3.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/nOAZR8H_VVW_T-72uXO67cnjblKm54-sVtfzTpNiQjw/560x747.jpg",
+						"width": 560,
+						"height": 747,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/nOAZR8H_VVW_T-72uXO67cnjblKm54-sVtfzTpNiQjw/560x747.jpg",
+								"width": 560,
+								"height": 747
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/nOAZR8H_VVW_T-72uXO67cnjblKm54-sVtfzTpNiQjw/337x450.jpg",
+								"width": 337,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/nOAZR8H_VVW_T-72uXO67cnjblKm54-sVtfzTpNiQjw/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Balenciaga",
+			"price": {
+				"value": "495",
+				"currencyCode": "USD"
+			},
+			"color": "Black",
+			"richTextDescription": "Designed in collaboration with Sony, Balenciaga's baseball cap is embroidered with PS5 branding - after breaking a 24-year console sales record, the tech gadget is nearly as covetable as the house's cult accessories. It's made from cotton-twill and embroidered with aerating eyelets."
+		},
+		{
+			"name": "Logo-Embroidered Cotton-Blend Twill Baseball Cap",
+			"slug": "hats/hat-4.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Givenchy",
+			"price": {
+				"value": "450",
+				"currencyCode": "USD"
+			},
+			"color": "Gold",
+			"richTextDescription": "The tonal logo embroidery on Givenchy's baseball cap is quite on-the-nose, or rather, on-the-head. It's made from cotton-blend twill that's easy to spot clean."
+		},
+		{
+			"name": "Leather-Trimmed Herringbone Wool and Cashmere-Blend Tweed Flat Cap",
+			"slug": "hats/hat-5.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/KZc06dqWCy1MWzuULASFQffLv6LBV-tA13xRYURxxoE/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/KZc06dqWCy1MWzuULASFQffLv6LBV-tA13xRYURxxoE/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/KZc06dqWCy1MWzuULASFQffLv6LBV-tA13xRYURxxoE/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/KZc06dqWCy1MWzuULASFQffLv6LBV-tA13xRYURxxoE/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/KZc06dqWCy1MWzuULASFQffLv6LBV-tA13xRYURxxoE/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Brunello Cucinelli",
+			"price": {
+				"value": "645",
+				"currencyCode": "USD"
+			},
+			"color": "Green",
+			"richTextDescription": "Brunello Cucinelli's flat cap has been made in Italy from wool and cashmere-blend tweed that'll keep you warm in cooler weather. It's fully lined in cotton and trimmed with a leather back tab to perfect the fit."
+		},
+		{
+			"name": "Patchwork Bandana-Print Cotton Bucket Hat",
+			"slug": "hats/hat-6.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			],
+			"brand": "Kapital",
+			"price": {
+				"value": "165",
+				"currencyCode": "USD"
+			},
+			"color": "Purple",
+			"richTextDescription": "KAPITAL is inspired by American workwear, so naturally bandana motifs play a role in each season's collection. This cotton bucket hat features a patchwork version of the paisley motif."
+		},
+		{
+			"brand": "MAISON KITSUNÉ",
+			"price": {
+				"value": "125",
+				"currencyCode": "USD"
+			},
+			"color": "Cream",
+			"richTextDescription": "Maison Kitsuné's fox mascot is recognised as a symbol of versatility in Japan, which couldn't be more fitting to its rainbow iteration on this baseball cap in honour of Pride month. It's constructed from cotton and embroidered with breathable eyelets.",
+			"name": "Logo-Embroidered Cotton Baseball Cap",
+			"slug": "hats/hat-7.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/WhzqG5sO2JjWJGJUNVdFMOjSJ7riwp_UY1G_UGsiZpQ/1365x1820.jpg",
+						"width": 1365,
+						"height": 1820,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/WhzqG5sO2JjWJGJUNVdFMOjSJ7riwp_UY1G_UGsiZpQ/1365x1820.jpg",
+								"width": 1365,
+								"height": 1820
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/WhzqG5sO2JjWJGJUNVdFMOjSJ7riwp_UY1G_UGsiZpQ/619x825.jpg",
+								"width": 619,
+								"height": 825
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/WhzqG5sO2JjWJGJUNVdFMOjSJ7riwp_UY1G_UGsiZpQ/338x450.jpg",
+								"width": 338,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/WhzqG5sO2JjWJGJUNVdFMOjSJ7riwp_UY1G_UGsiZpQ/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/CMTS7smEtmhQKRGSXMbCqyZSX9Tklfdb-eLtQDAf1dY/560x747.jpg",
+						"width": 560,
+						"height": 747,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/CMTS7smEtmhQKRGSXMbCqyZSX9Tklfdb-eLtQDAf1dY/560x747.jpg",
+								"width": 560,
+								"height": 747
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/CMTS7smEtmhQKRGSXMbCqyZSX9Tklfdb-eLtQDAf1dY/337x450.jpg",
+								"width": 337,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/CMTS7smEtmhQKRGSXMbCqyZSX9Tklfdb-eLtQDAf1dY/196x261.jpg",
+								"width": 196,
+								"height": 261
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"richTextDescription": "With over 4000 styles in its archives, Maison Michel's 'Virginie' fedora is one of the most recognizable - the asymmetrically sculpted crown is designed to fit and suit every head shape. Crafted by artisans in the brand's Spanish workshop, it's made from soft cream wool-felt and framed by a tonal grosgrain ribbon and wide, structured brim.",
+			"name": "Virginie grosgrain-trimmed wool-felt fedora",
+			"slug": "hats/hat-8.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				}
+			],
+			"brand": "Maison Michel",
+			"price": {
+				"value": "690",
+				"currencyCode": "USD"
+			},
+			"color": "Cream"
+		},
+		{
+			"price": {
+				"value": "450",
+				"currencyCode": "USD"
+			},
+			"color": "Sand",
+			"richTextDescription": "Part of Loewe's Spring '21 collaboration with Paula's Ibiza, this bucket hat has been made in Italy from sand cotton-canvas and topped with a leather 'Anagram' patch. It has a classic topstitched brim and logo-print ties for a secure fit.",
+			"name": "Paula's Ibiza leather-trimmed cotton-canvas bucket hat",
+			"slug": "hats/hat-9.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/uOvH7iTimcMnKazLwle5RROEhcYj0w2qU5A40ltQv4M/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/uOvH7iTimcMnKazLwle5RROEhcYj0w2qU5A40ltQv4M/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/uOvH7iTimcMnKazLwle5RROEhcYj0w2qU5A40ltQv4M/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/uOvH7iTimcMnKazLwle5RROEhcYj0w2qU5A40ltQv4M/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/uOvH7iTimcMnKazLwle5RROEhcYj0w2qU5A40ltQv4M/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/o0pjAUTWitV2sFXx8mBTMI-ab-Jh5WwuMAlSaaOISJY/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/o0pjAUTWitV2sFXx8mBTMI-ab-Jh5WwuMAlSaaOISJY/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/o0pjAUTWitV2sFXx8mBTMI-ab-Jh5WwuMAlSaaOISJY/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/o0pjAUTWitV2sFXx8mBTMI-ab-Jh5WwuMAlSaaOISJY/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/o0pjAUTWitV2sFXx8mBTMI-ab-Jh5WwuMAlSaaOISJY/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				}
+			],
+			"brand": "Loewe"
+		},
+		{
+			"richTextDescription": "Artesano's hats are made from Toquilla straw that's carefully hand-cut and sourced from the leaves of a Carludovica Palmata plant, so it can take up to four months to finish just one. This 'Santarem' style has a wide, structured brim and is decorated with the label's signature tagua beads.",
+			"name": "Santarem bead-embellished straw Panama hat",
+			"slug": "hats/hat-10.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				}
+			],
+			"brand": "Artesano",
+			"price": {
+				"value": "260",
+				"currencyCode": "USD"
+			},
+			"color": "Camel"
+		},
+		{
+			"slug": "hats/hat-11.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				}
+			],
+			"brand": "Zimmermann",
+			"price": {
+				"value": "160",
+				"currencyCode": "USD"
+			},
+			"color": "Orange",
+			"richTextDescription": "Zimmermann's bucket hat is printed with the same palm fronds and tropical birds as the label's shirt and maxi dress - coordinating pieces are key this season, so style yours with either. It's made from linen-twill and has ventilating metal eyelets at the side.",
+			"name": "Printed linen-twill bucket hat"
+		},
+		{
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				}
+			],
+			"brand": "Gabriela Hearst",
+			"price": {
+				"value": "320",
+				"currencyCode": "USD"
+			},
+			"color": "Blue",
+			"richTextDescription": "Gabriela Hearst's bucket hat is tie-dyed in rainbow swirls, really accentuating the '90s-inspired retro vibe. It's made from cashmere and silk-blend and fully lined to prevent frizz and flyaways.",
+			"name": "Tie-dyed cashmere and silk-blend bucket hat",
+			"slug": "hats/hat-12.html"
+		},
+		{
+			"color": "Black",
+			"richTextDescription": "You can always depend on Eres' collections to be filled with pieces perfect for sun-soaked getaways, and this lightweight 'Jones' fedora is no exception. It's been woven in Italy from paper in an intricate, geometric motif and trimmed with grosgrain. The black and white colorway ensures it'll go with any of the label's swimwear.",
+			"name": "Jones grosgrain-trimmed paper fedora",
+			"slug": "hats/hat-13.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/920x1380.jpg",
+						"width": 920,
+						"height": 1380,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/920x1380.jpg",
+								"width": 920,
+								"height": 1380
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/2000x2999.jpg",
+						"width": 2000,
+						"height": 2999,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/2000x2999.jpg",
+								"width": 2000,
+								"height": 2999
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/1267x1900.jpg",
+								"width": 1267,
+								"height": 1900
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/619x928.jpg",
+								"width": 619,
+								"height": 928
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/300x450.jpg",
+								"width": 300,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/196x294.jpg",
+								"width": 196,
+								"height": 294
+							}
+						]
+					}
+				}
+			],
+			"brand": "Eres",
+			"price": {
+				"value": "165",
+				"currencyCode": "USD"
+			}
+		},
+		{
+			"name": "Adult Propeller Baseball Hat",
+			"slug": "hats/hat-14.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/679x588.jpg",
+						"width": 679,
+						"height": 588,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/679x588.jpg",
+								"width": 679,
+								"height": 588
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/619x536.jpg",
+								"width": 619,
+								"height": 536
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/520x450.jpg",
+								"width": 520,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/B70y0OmXJCzn5u1ajlEUHbS63lIRldKuygGDnemnkn0/196x170.jpg",
+								"width": 196,
+								"height": 170
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/lGm3QPLVnz04XJ6AvVZDpr6Xgq1_X9mkAGLwfW2FAIg/500x500.jpg",
+						"width": 500,
+						"height": 500,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/lGm3QPLVnz04XJ6AvVZDpr6Xgq1_X9mkAGLwfW2FAIg/500x500.jpg",
+								"width": 500,
+								"height": 500
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/lGm3QPLVnz04XJ6AvVZDpr6Xgq1_X9mkAGLwfW2FAIg/450x450.jpg",
+								"width": 450,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/lGm3QPLVnz04XJ6AvVZDpr6Xgq1_X9mkAGLwfW2FAIg/196x196.jpg",
+								"width": 196,
+								"height": 196
+							}
+						]
+					}
+				}
+			],
+			"brand": "Interstellar Propeller",
+			"price": {
+				"value": "16.50",
+				"currencyCode": "USD"
+			},
+			"color": "Rainbow",
+			"richTextDescription": "Multi\\-colored Adult Propeller Hat. The rainbow propeller top hat is made of polyester, soft and comfortable. A great comical novelty item. Plastic Propeller attached on top of Hat. Attention grabbing colorful panels, fun for party, parades, costume events, and casual use."
+		},
+		{
+			"color": "Fire Red",
+			"richTextDescription": "Wanna be the very best? Like no one ever was? This Ash Ketchum flat bill, five panel, high\\-profile hat has a snapback closure. This hat is perfect for Pokemon trainers who want to take their game to the next level.",
+			"name": "Ash Ketchum Baseball Cap",
+			"slug": "hats/hat-15.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/73KvG6OL0otvKVIC-r3GetMlRXIBN9FTuUCuH0KDWRs/679x647.jpg",
+						"width": 679,
+						"height": 647,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/73KvG6OL0otvKVIC-r3GetMlRXIBN9FTuUCuH0KDWRs/679x647.jpg",
+								"width": 679,
+								"height": 647
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/73KvG6OL0otvKVIC-r3GetMlRXIBN9FTuUCuH0KDWRs/619x590.jpg",
+								"width": 619,
+								"height": 590
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/73KvG6OL0otvKVIC-r3GetMlRXIBN9FTuUCuH0KDWRs/472x450.jpg",
+								"width": 472,
+								"height": 450
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/73KvG6OL0otvKVIC-r3GetMlRXIBN9FTuUCuH0KDWRs/196x187.jpg",
+								"width": 196,
+								"height": 187
+							}
+						]
+					}
+				},
+				{
+					"image": {
+						"url": "http://a.mktgcdn.com/p-sandbox/YDsSObe6nFHKGDDE_bPD6Tfy_VyJ8gG3c1hOJ61Mlyw/633x412.png",
+						"width": 633,
+						"height": 412,
+						"thumbnails": [
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/YDsSObe6nFHKGDDE_bPD6Tfy_VyJ8gG3c1hOJ61Mlyw/633x412.png",
+								"width": 633,
+								"height": 412
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/YDsSObe6nFHKGDDE_bPD6Tfy_VyJ8gG3c1hOJ61Mlyw/619x403.png",
+								"width": 619,
+								"height": 403
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/YDsSObe6nFHKGDDE_bPD6Tfy_VyJ8gG3c1hOJ61Mlyw/600x391.png",
+								"width": 600,
+								"height": 391
+							},
+							{
+								"url": "http://a.mktgcdn.com/p-sandbox/YDsSObe6nFHKGDDE_bPD6Tfy_VyJ8gG3c1hOJ61Mlyw/196x128.png",
+								"width": 196,
+								"height": 128
+							}
+						]
+					}
+				}
+			],
+			"brand": "Nike",
+			"price": {
+				"value": "12000",
+				"currencyCode": "USD"
+			}
+		}
+	],
+	"id": "hats",
+	"uid": 14745775
+}

@@ -1,0 +1,86 @@
+{
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 30000,
+			"id": "product"
+		},
+		"updateTimestamp": "2021-11-09T14:28:33Z"
+	},
+	"name": "Jones grosgrain-trimmed paper fedora",
+	"slug": "hats/hat-13.html",
+	"price": {
+		"value": "165",
+		"currencyCode": "USD"
+	},
+	"color": "Black",
+	"photoGallery": [
+		{
+			"image": {
+				"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/920x1380.jpg",
+				"width": 920,
+				"height": 1380,
+				"thumbnails": [
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/920x1380.jpg",
+						"width": 920,
+						"height": 1380
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/619x928.jpg",
+						"width": 619,
+						"height": 928
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/300x450.jpg",
+						"width": 300,
+						"height": 450
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/P-3ehpTSzV7VwBMUuLFsYKEL71NHPbxc28dfkbtNn5Q/196x294.jpg",
+						"width": 196,
+						"height": 294
+					}
+				]
+			}
+		},
+		{
+			"image": {
+				"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/2000x2999.jpg",
+				"width": 2000,
+				"height": 2999,
+				"thumbnails": [
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/2000x2999.jpg",
+						"width": 2000,
+						"height": 2999
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/1267x1900.jpg",
+						"width": 1267,
+						"height": 1900
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/619x928.jpg",
+						"width": 619,
+						"height": 928
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/300x450.jpg",
+						"width": 300,
+						"height": 450
+					},
+					{
+						"url": "http://a.mktgcdn.com/p-sandbox/Qwh1HQuQvG0q7yJr4OZjXKUMGN88UZk_5vv3ZrA9rc0/196x294.jpg",
+						"width": 196,
+						"height": 294
+					}
+				]
+			}
+		}
+	],
+	"uid": 14745778,
+	"richTextDescription": "You can always depend on Eres' collections to be filled with pieces perfect for sun-soaked getaways, and this lightweight 'Jones' fedora is no exception. It's been woven in Italy from paper in an intricate, geometric motif and trimmed with grosgrain. The black and white colorway ensures it'll go with any of the label's swimwear.",
+	"brand": "Eres",
+	"id": "hat-13"
+}

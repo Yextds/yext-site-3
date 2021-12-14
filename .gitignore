@@ -1,9 +1,2 @@
 node_modules/
-.artifact-output/
-public/
-assets/
-main.exe
-Users/
-localData/
-cli.exe
-sites-rendered-output/
+yext

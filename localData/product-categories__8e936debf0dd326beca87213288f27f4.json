@@ -1,0 +1,97 @@
+{
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 72700,
+			"id": "ce_productCategory"
+		},
+		"updateTimestamp": "2021-12-14T09:31:26Z"
+	},
+	"name": "Watch",
+	"slug": "watch.html",
+	"c_relatedProducts": [
+		{
+			"price": {
+				"value": "210",
+				"currencyCode": "USD"
+			},
+			"color": "Blue",
+			"richTextDescription": "#### PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Automatic  \nPower source: Motion  \nDial style: Patterned round stainless steel dial  \nFeatures: Reset Time, Chronograph, Date Aperture  \nStrap style: Black cut work, leather strap with a tang closure  \nWater resistance: 100 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer  \nComes in a signature TISSOT case\n\n\n#### Size \\& Fit\n\nDial width:  \nStrap Width\n\n\n#### Material \\& Care\n\nWipe with a clean, dry cloth when needed",
+			"name": "TISSOT Men Black Chronograph Watch",
+			"slug": "watch/watch-1.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/O6-0Bv16CxG5JSGq8JVWEEFAIQViHrlROQyejVF7fgA/469x526.png",
+						"alternateText": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100",
+						"width": 469,
+						"height": 526,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/O6-0Bv16CxG5JSGq8JVWEEFAIQViHrlROQyejVF7fgA/469x526.png",
+								"width": 469,
+								"height": 526
+							}
+						]
+					},
+					"description": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100",
+					"details": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/6lxkHcvGos0cRYUhhQFjEZVTXBrGV8LWXmZ0VFr9PXU/468x376.png",
+						"alternateText": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100",
+						"width": 468,
+						"height": 376,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/6lxkHcvGos0cRYUhhQFjEZVTXBrGV8LWXmZ0VFr9PXU/468x376.png",
+								"width": 468,
+								"height": 376
+							}
+						]
+					},
+					"description": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100",
+					"details": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/0xQqYUCmWAubYRLrDMLAl8zPwMlmIOmPliKgVoWXU64/468x544.png",
+						"alternateText": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100",
+						"width": 468,
+						"height": 544,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/0xQqYUCmWAubYRLrDMLAl8zPwMlmIOmPliKgVoWXU64/468x544.png",
+								"width": 468,
+								"height": 544
+							}
+						]
+					},
+					"description": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100",
+					"details": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/EibuFDD9-WYw7hpnZZc--SljjRqyHxUhCd2bDbAm5L8/469x596.png",
+						"alternateText": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100",
+						"width": 469,
+						"height": 596,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/EibuFDD9-WYw7hpnZZc--SljjRqyHxUhCd2bDbAm5L8/469x596.png",
+								"width": 469,
+								"height": 596
+							}
+						]
+					},
+					"description": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100",
+					"details": "TISSOT Men Black PRS 516 Automatic Chronograph Watch T1004271605100"
+				}
+			],
+			"brand": "TISSOT"
+		}
+	],
+	"id": "watch",
+	"uid": 15493516
+}
