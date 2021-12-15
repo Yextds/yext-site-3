@@ -1,20 +1,8 @@
 {
-	"meta": {
-		"locale": "en",
-		"entityType": {
-			"uid": 72700,
-			"id": "ce_productCategory"
-		},
-		"updateTimestamp": "2021-11-09T14:28:33Z"
-	},
-	"name": "Hats",
 	"slug": "hats.html",
 	"richTextDescription": "A hat says a great deal about your personal sense of style. Are you a trilby or fedora kind of person? Is a flat cap or a Panama more your style? Explore our collection of designer hats and caps, including everything from Balenciaga beanies to bucket hats from Polo Ralph Lauren.",
 	"c_relatedProducts": [
 		{
-			"color": "Blue",
-			"richTextDescription": "Wide-leg pants, light-wash denim - '90s trends are back, and crocheted buckets hats are up next. AMIRI's version is designed with stripes and has a hidden wire in the brim so you can adjust the shape.",
-			"name": "Striped Crocheted Cotton Bucket Hat",
 			"slug": "hats/hat-1.html",
 			"photoGallery": [
 				{
@@ -51,9 +39,13 @@
 			"price": {
 				"value": "590",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Blue",
+			"richTextDescription": "Wide-leg pants, light-wash denim - '90s trends are back, and crocheted buckets hats are up next. AMIRI's version is designed with stripes and has a hidden wire in the brim so you can adjust the shape.",
+			"name": "Striped Crocheted Cotton Bucket Hat"
 		},
 		{
+			"name": "Reversible Leather-Trimmed Logo-Jacquard Cotton-Blend Canvas Bucket Hat",
 			"slug": "hats/hat-2.html",
 			"photoGallery": [
 				{
@@ -116,10 +108,10 @@
 				"currencyCode": "USD"
 			},
 			"color": "Green",
-			"richTextDescription": "Gucci's bucket hat is reversible, so there are double the styling options. Appliquéd with the house's emblem, it's made from monogrammed cotton-blend canvas on one side and midnight-blue twill on the other.",
-			"name": "Reversible Leather-Trimmed Logo-Jacquard Cotton-Blend Canvas Bucket Hat"
+			"richTextDescription": "Gucci's bucket hat is reversible, so there are double the styling options. Appliquéd with the house's emblem, it's made from monogrammed cotton-blend canvas on one side and midnight-blue twill on the other."
 		},
 		{
+			"richTextDescription": "Designed in collaboration with Sony, Balenciaga's baseball cap is embroidered with PS5 branding - after breaking a 24-year console sales record, the tech gadget is nearly as covetable as the house's cult accessories. It's made from cotton-twill and embroidered with aerating eyelets.",
 			"name": "Sony Logo-Embroidered Cotton-Twill Baseball Cap",
 			"slug": "hats/hat-3.html",
 			"photoGallery": [
@@ -182,10 +174,16 @@
 				"value": "495",
 				"currencyCode": "USD"
 			},
-			"color": "Black",
-			"richTextDescription": "Designed in collaboration with Sony, Balenciaga's baseball cap is embroidered with PS5 branding - after breaking a 24-year console sales record, the tech gadget is nearly as covetable as the house's cult accessories. It's made from cotton-twill and embroidered with aerating eyelets."
+			"color": "Black"
 		},
 		{
+			"brand": "Givenchy",
+			"price": {
+				"value": "450",
+				"currencyCode": "USD"
+			},
+			"color": "Gold",
+			"richTextDescription": "The tonal logo embroidery on Givenchy's baseball cap is quite on-the-nose, or rather, on-the-head. It's made from cotton-blend twill that's easy to spot clean.",
 			"name": "Logo-Embroidered Cotton-Blend Twill Baseball Cap",
 			"slug": "hats/hat-4.html",
 			"photoGallery": [
@@ -218,14 +216,7 @@
 						]
 					}
 				}
-			],
-			"brand": "Givenchy",
-			"price": {
-				"value": "450",
-				"currencyCode": "USD"
-			},
-			"color": "Gold",
-			"richTextDescription": "The tonal logo embroidery on Givenchy's baseball cap is quite on-the-nose, or rather, on-the-head. It's made from cotton-blend twill that's easy to spot clean."
+			]
 		},
 		{
 			"name": "Leather-Trimmed Herringbone Wool and Cashmere-Blend Tweed Flat Cap",
@@ -312,7 +303,6 @@
 			"richTextDescription": "KAPITAL is inspired by American workwear, so naturally bandana motifs play a role in each season's collection. This cotton bucket hat features a patchwork version of the paisley motif."
 		},
 		{
-			"brand": "MAISON KITSUNÉ",
 			"price": {
 				"value": "125",
 				"currencyCode": "USD"
@@ -375,9 +365,16 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "MAISON KITSUNÉ"
 		},
 		{
+			"brand": "Maison Michel",
+			"price": {
+				"value": "690",
+				"currencyCode": "USD"
+			},
+			"color": "Cream",
 			"richTextDescription": "With over 4000 styles in its archives, Maison Michel's 'Virginie' fedora is one of the most recognizable - the asymmetrically sculpted crown is designed to fit and suit every head shape. Crafted by artisans in the brand's Spanish workshop, it's made from soft cream wool-felt and framed by a tonal grosgrain ribbon and wide, structured brim.",
 			"name": "Virginie grosgrain-trimmed wool-felt fedora",
 			"slug": "hats/hat-8.html",
@@ -440,21 +437,9 @@
 						]
 					}
 				}
-			],
-			"brand": "Maison Michel",
-			"price": {
-				"value": "690",
-				"currencyCode": "USD"
-			},
-			"color": "Cream"
+			]
 		},
 		{
-			"price": {
-				"value": "450",
-				"currencyCode": "USD"
-			},
-			"color": "Sand",
-			"richTextDescription": "Part of Loewe's Spring '21 collaboration with Paula's Ibiza, this bucket hat has been made in Italy from sand cotton-canvas and topped with a leather 'Anagram' patch. It has a classic topstitched brim and logo-print ties for a secure fit.",
 			"name": "Paula's Ibiza leather-trimmed cotton-canvas bucket hat",
 			"slug": "hats/hat-9.html",
 			"photoGallery": [
@@ -517,12 +502,15 @@
 					}
 				}
 			],
-			"brand": "Loewe"
+			"brand": "Loewe",
+			"price": {
+				"value": "450",
+				"currencyCode": "USD"
+			},
+			"color": "Sand",
+			"richTextDescription": "Part of Loewe's Spring '21 collaboration with Paula's Ibiza, this bucket hat has been made in Italy from sand cotton-canvas and topped with a leather 'Anagram' patch. It has a classic topstitched brim and logo-print ties for a secure fit."
 		},
 		{
-			"richTextDescription": "Artesano's hats are made from Toquilla straw that's carefully hand-cut and sourced from the leaves of a Carludovica Palmata plant, so it can take up to four months to finish just one. This 'Santarem' style has a wide, structured brim and is decorated with the label's signature tagua beads.",
-			"name": "Santarem bead-embellished straw Panama hat",
-			"slug": "hats/hat-10.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -588,9 +576,20 @@
 				"value": "260",
 				"currencyCode": "USD"
 			},
-			"color": "Camel"
+			"color": "Camel",
+			"richTextDescription": "Artesano's hats are made from Toquilla straw that's carefully hand-cut and sourced from the leaves of a Carludovica Palmata plant, so it can take up to four months to finish just one. This 'Santarem' style has a wide, structured brim and is decorated with the label's signature tagua beads.",
+			"name": "Santarem bead-embellished straw Panama hat",
+			"slug": "hats/hat-10.html"
 		},
 		{
+			"brand": "Zimmermann",
+			"price": {
+				"value": "160",
+				"currencyCode": "USD"
+			},
+			"color": "Orange",
+			"richTextDescription": "Zimmermann's bucket hat is printed with the same palm fronds and tropical birds as the label's shirt and maxi dress - coordinating pieces are key this season, so style yours with either. It's made from linen-twill and has ventilating metal eyelets at the side.",
+			"name": "Printed linen-twill bucket hat",
 			"slug": "hats/hat-11.html",
 			"photoGallery": [
 				{
@@ -622,17 +621,12 @@
 						]
 					}
 				}
-			],
-			"brand": "Zimmermann",
-			"price": {
-				"value": "160",
-				"currencyCode": "USD"
-			},
-			"color": "Orange",
-			"richTextDescription": "Zimmermann's bucket hat is printed with the same palm fronds and tropical birds as the label's shirt and maxi dress - coordinating pieces are key this season, so style yours with either. It's made from linen-twill and has ventilating metal eyelets at the side.",
-			"name": "Printed linen-twill bucket hat"
+			]
 		},
 		{
+			"richTextDescription": "Gabriela Hearst's bucket hat is tie-dyed in rainbow swirls, really accentuating the '90s-inspired retro vibe. It's made from cashmere and silk-blend and fully lined to prevent frizz and flyaways.",
+			"name": "Tie-dyed cashmere and silk-blend bucket hat",
+			"slug": "hats/hat-12.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -698,14 +692,9 @@
 				"value": "320",
 				"currencyCode": "USD"
 			},
-			"color": "Blue",
-			"richTextDescription": "Gabriela Hearst's bucket hat is tie-dyed in rainbow swirls, really accentuating the '90s-inspired retro vibe. It's made from cashmere and silk-blend and fully lined to prevent frizz and flyaways.",
-			"name": "Tie-dyed cashmere and silk-blend bucket hat",
-			"slug": "hats/hat-12.html"
+			"color": "Blue"
 		},
 		{
-			"color": "Black",
-			"richTextDescription": "You can always depend on Eres' collections to be filled with pieces perfect for sun-soaked getaways, and this lightweight 'Jones' fedora is no exception. It's been woven in Italy from paper in an intricate, geometric motif and trimmed with grosgrain. The black and white colorway ensures it'll go with any of the label's swimwear.",
 			"name": "Jones grosgrain-trimmed paper fedora",
 			"slug": "hats/hat-13.html",
 			"photoGallery": [
@@ -777,9 +766,13 @@
 			"price": {
 				"value": "165",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Black",
+			"richTextDescription": "You can always depend on Eres' collections to be filled with pieces perfect for sun-soaked getaways, and this lightweight 'Jones' fedora is no exception. It's been woven in Italy from paper in an intricate, geometric motif and trimmed with grosgrain. The black and white colorway ensures it'll go with any of the label's swimwear."
 		},
 		{
+			"color": "Rainbow",
+			"richTextDescription": "Multi\\-colored Adult Propeller Hat. The rainbow propeller top hat is made of polyester, soft and comfortable. A great comical novelty item. Plastic Propeller attached on top of Hat. Attention grabbing colorful panels, fun for party, parades, costume events, and casual use.",
 			"name": "Adult Propeller Baseball Hat",
 			"slug": "hats/hat-14.html",
 			"photoGallery": [
@@ -841,15 +834,9 @@
 			"price": {
 				"value": "16.50",
 				"currencyCode": "USD"
-			},
-			"color": "Rainbow",
-			"richTextDescription": "Multi\\-colored Adult Propeller Hat. The rainbow propeller top hat is made of polyester, soft and comfortable. A great comical novelty item. Plastic Propeller attached on top of Hat. Attention grabbing colorful panels, fun for party, parades, costume events, and casual use."
+			}
 		},
 		{
-			"color": "Fire Red",
-			"richTextDescription": "Wanna be the very best? Like no one ever was? This Ash Ketchum flat bill, five panel, high\\-profile hat has a snapback closure. This hat is perfect for Pokemon trainers who want to take their game to the next level.",
-			"name": "Ash Ketchum Baseball Cap",
-			"slug": "hats/hat-15.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -914,9 +901,22 @@
 			"price": {
 				"value": "12000",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Fire Red",
+			"richTextDescription": "Wanna be the very best? Like no one ever was? This Ash Ketchum flat bill, five panel, high\\-profile hat has a snapback closure. This hat is perfect for Pokemon trainers who want to take their game to the next level.",
+			"name": "Ash Ketchum Baseball Cap",
+			"slug": "hats/hat-15.html"
 		}
 	],
 	"id": "hats",
-	"uid": 14745775
+	"uid": 14745775,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 72700,
+			"id": "ce_productCategory"
+		},
+		"updateTimestamp": "2021-11-09T14:28:33Z"
+	},
+	"name": "Hats"
 }

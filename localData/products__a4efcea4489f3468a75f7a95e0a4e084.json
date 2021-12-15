@@ -1,4 +1,5 @@
 {
+	"uid": 14745778,
 	"meta": {
 		"locale": "en",
 		"entityType": {
@@ -6,12 +7,6 @@
 			"id": "product"
 		},
 		"updateTimestamp": "2021-11-09T14:28:33Z"
-	},
-	"name": "Jones grosgrain-trimmed paper fedora",
-	"slug": "hats/hat-13.html",
-	"price": {
-		"value": "165",
-		"currencyCode": "USD"
 	},
 	"color": "Black",
 	"photoGallery": [
@@ -79,8 +74,13 @@
 			}
 		}
 	],
-	"uid": 14745778,
+	"id": "hat-13",
 	"richTextDescription": "You can always depend on Eres' collections to be filled with pieces perfect for sun-soaked getaways, and this lightweight 'Jones' fedora is no exception. It's been woven in Italy from paper in an intricate, geometric motif and trimmed with grosgrain. The black and white colorway ensures it'll go with any of the label's swimwear.",
-	"brand": "Eres",
-	"id": "hat-13"
+	"name": "Jones grosgrain-trimmed paper fedora",
+	"slug": "hats/hat-13.html",
+	"price": {
+		"value": "165",
+		"currencyCode": "USD"
+	},
+	"brand": "Eres"
 }

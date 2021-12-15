@@ -1,4 +1,5 @@
 {
+	"uid": 14745776,
 	"meta": {
 		"locale": "en",
 		"entityType": {
@@ -88,6 +89,8 @@
 			]
 		},
 		{
+			"color": "Multi",
+			"richTextDescription": "Part of the collaboration between Loewe and Paula's boutique, this T-shirt calls to mind Ibiza's famed vibrant island lifestyle, from sunrise to sunset. It's cut from waffle-knit cotton.",
 			"name": "Paula's Ibiza Printed Waffle-Knit Cotton T-Shirt",
 			"slug": "tops/top-2.html",
 			"photoGallery": [
@@ -159,14 +162,9 @@
 			"price": {
 				"value": "650",
 				"currencyCode": "USD"
-			},
-			"color": "Multi",
-			"richTextDescription": "Part of the collaboration between Loewe and Paula's boutique, this T-shirt calls to mind Ibiza's famed vibrant island lifestyle, from sunrise to sunset. It's cut from waffle-knit cotton."
+			}
 		},
 		{
-			"color": "Multi",
-			"richTextDescription": "Gucci's partnership with Disney continues apace this season with this T-shirt. Cut from striped perforated cotton, it will look great solo or layered under an overshirt. Take cues from the cheery Donald Duck appliqué by wearing it with something blue, preferably ignoring his laissez-faire attitude to trousers.",
-			"name": "Disney Appliquéd Striped Perforated Cotton T-Shirt",
 			"slug": "tops/top-3.html",
 			"photoGallery": [
 				{
@@ -227,7 +225,10 @@
 			"price": {
 				"value": "630",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Multi",
+			"richTextDescription": "Gucci's partnership with Disney continues apace this season with this T-shirt. Cut from striped perforated cotton, it will look great solo or layered under an overshirt. Take cues from the cheery Donald Duck appliqué by wearing it with something blue, preferably ignoring his laissez-faire attitude to trousers.",
+			"name": "Disney Appliquéd Striped Perforated Cotton T-Shirt"
 		},
 		{
 			"name": "Oversized Embroidered Printed Cotton-Jersey T-Shirt",
@@ -372,7 +373,6 @@
 			"richTextDescription": "Loewe has collaborated with Paula's Ibiza again on a collection inspired by the boutique's archive. This cotton-jersey T-shirt features an airbrush-style landscape on the front and a cosmic seascape on the back."
 		},
 		{
-			"richTextDescription": "Gucci's insignia comes full-circle on this T-shirt, with four logos surrounding a disc and the interlocking GG emblem front and centre. It's cut from soft cotton-jersey in a comfortably loose fit.",
 			"name": "Printed Cotton-Jersey T-Shirt",
 			"slug": "tops/top-6.html",
 			"photoGallery": [
@@ -445,7 +445,8 @@
 				"value": "490",
 				"currencyCode": "USD"
 			},
-			"color": "White"
+			"color": "White",
+			"richTextDescription": "Gucci's insignia comes full-circle on this T-shirt, with four logos surrounding a disc and the interlocking GG emblem front and centre. It's cut from soft cotton-jersey in a comfortably loose fit."
 		},
 		{
 			"name": "Stephen Curry Select Series",
@@ -495,7 +496,6 @@
 			"richTextDescription": "The Select Series from Nike and the NBA celebrates the MVPs and Rookies of the Year from 2011-2020. The design is inspired by the '90s golden era of basketball, from Nike apparel patterns and posters to T-shirt graphics. This product is made with 100% recycled polyester fibers."
 		},
 		{
-			"name": "Giannis Antetokounmpo Select Series",
 			"slug": "tops/top-8.html",
 			"photoGallery": [
 				{
@@ -539,9 +539,12 @@
 				"currencyCode": "USD"
 			},
 			"color": "Hasta/Hyper Royal",
-			"richTextDescription": "The Select Series from Nike and the NBA celebrates the MVPs and Rookies of the Year from 2011-2020. The design is inspired by the '90s golden era of basketball, from Nike apparel patterns and posters to T-shirt graphics. This product is made with 100% recycled polyester fibers."
+			"richTextDescription": "The Select Series from Nike and the NBA celebrates the MVPs and Rookies of the Year from 2011-2020. The design is inspired by the '90s golden era of basketball, from Nike apparel patterns and posters to T-shirt graphics. This product is made with 100% recycled polyester fibers.",
+			"name": "Giannis Antetokounmpo Select Series"
 		},
 		{
+			"name": "Kevin Durant Nets Association Edition 2020",
+			"slug": "tops/top-9.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -584,9 +587,7 @@
 				"currencyCode": "USD"
 			},
 			"color": "White",
-			"richTextDescription": "The Association Edition jersey is the common thread that weaves through every team in the league. The Authentic Nike NBA Association Edition Jersey of the Brooklyn Nets is designed to be lightweight and breathable. It's got a fit that helps players move freely on the basketball court.",
-			"name": "Kevin Durant Nets Association Edition 2020",
-			"slug": "tops/top-9.html"
+			"richTextDescription": "The Association Edition jersey is the common thread that weaves through every team in the league. The Authentic Nike NBA Association Edition Jersey of the Brooklyn Nets is designed to be lightweight and breathable. It's got a fit that helps players move freely on the basketball court."
 		},
 		{
 			"color": "Amarillo",
@@ -636,6 +637,12 @@
 			}
 		},
 		{
+			"price": {
+				"value": "175",
+				"currencyCode": "USD"
+			},
+			"color": "Amarillo",
+			"richTextDescription": "The Brooklyn Nets Nike NBA Swingman Jersey is inspired by what the pros wear. The jersey uses a vibrant mix of colors and trims on top of premium double-knit fabric. It's got a classic jersey construction and a fit that looks good from all angles. This product is made with at least 50% recycled polyester.",
 			"name": "Brooklyn Nets Biggie",
 			"slug": "tops/top-11.html",
 			"photoGallery": [
@@ -674,15 +681,16 @@
 					}
 				}
 			],
-			"brand": "Nike",
-			"price": {
-				"value": "175",
-				"currencyCode": "USD"
-			},
-			"color": "Amarillo",
-			"richTextDescription": "The Brooklyn Nets Nike NBA Swingman Jersey is inspired by what the pros wear. The jersey uses a vibrant mix of colors and trims on top of premium double-knit fabric. It's got a classic jersey construction and a fit that looks good from all angles. This product is made with at least 50% recycled polyester."
+			"brand": "Nike"
 		},
 		{
+			"price": {
+				"value": "200",
+				"currencyCode": "USD"
+			},
+			"color": "Black",
+			"richTextDescription": "The Icon Edition jersey represents the team's true colors, reflected in a distinct, instantly recognizable design. Part of the official Nike NBA uniform, this Brooklyn Nets Icon Edition Authentic Jersey features lightweight, breathable fabric and a fit that's engineered to let basketball's greatest athletes move freely on the court.",
+			"name": "Kyrie Irving Nets Icon Edition",
 			"slug": "tops/top-12.html",
 			"photoGallery": [
 				{
@@ -715,20 +723,9 @@
 					}
 				}
 			],
-			"brand": "Nike",
-			"price": {
-				"value": "200",
-				"currencyCode": "USD"
-			},
-			"color": "Black",
-			"richTextDescription": "The Icon Edition jersey represents the team's true colors, reflected in a distinct, instantly recognizable design. Part of the official Nike NBA uniform, this Brooklyn Nets Icon Edition Authentic Jersey features lightweight, breathable fabric and a fit that's engineered to let basketball's greatest athletes move freely on the court.",
-			"name": "Kyrie Irving Nets Icon Edition"
+			"brand": "Nike"
 		},
 		{
-			"color": "Hyper Royal",
-			"richTextDescription": "The Select Series from Nike and the NBA celebrates the MVPs and Rookies of the Year from 2011-2020. The design is inspired by the '90s golden era of basketball, from Nike apparel patterns and posters to T-shirt graphics. This product is made with 100% recycled polyester fibers.",
-			"name": "Luka Dončić Select Series",
-			"slug": "tops/top-13.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -769,7 +766,11 @@
 			"price": {
 				"value": "160",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Hyper Royal",
+			"richTextDescription": "The Select Series from Nike and the NBA celebrates the MVPs and Rookies of the Year from 2011-2020. The design is inspired by the '90s golden era of basketball, from Nike apparel patterns and posters to T-shirt graphics. This product is made with 100% recycled polyester fibers.",
+			"name": "Luka Dončić Select Series",
+			"slug": "tops/top-13.html"
 		},
 		{
 			"name": "LeBron James Select Series",
@@ -819,7 +820,6 @@
 			"richTextDescription": "The Select Series from Nike and the NBA celebrates the MVPs and Rookies of the Year from 2011-2020. The design is inspired by the '90s golden era of basketball, from Nike apparel patterns and posters to T-shirt graphics. This product is made with 100% recycled polyester fibers."
 		},
 		{
-			"richTextDescription": "The U.S. Top gives you the same look as your favorite players. Sweat-wicking fabric is lightweight and breathable to help keep you cool while you're warming up for the game.",
 			"name": "U.S.A. Men's Pre-Match Short-Sleeve Soccer Top",
 			"slug": "tops/top-15.html",
 			"photoGallery": [
@@ -863,9 +863,15 @@
 				"value": "65",
 				"currencyCode": "USD"
 			},
-			"color": "White/Loyal Blue/Loyal Blue"
+			"color": "White/Loyal Blue/Loyal Blue",
+			"richTextDescription": "The U.S. Top gives you the same look as your favorite players. Sweat-wicking fabric is lightweight and breathable to help keep you cool while you're warming up for the game."
 		},
 		{
+			"price": {
+				"value": "165",
+				"currencyCode": "USD"
+			},
+			"color": "White/Concord",
 			"richTextDescription": "The FFF Vapor Match Away Jersey is the same design worn by the pros on the field. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance. Informed by streetwear culture, the primarily white design unifies the team and the country as one crew. This product is made with at least 50% recycled polyester.",
 			"name": "FFF 2020 Vapor Match Away",
 			"slug": "tops/top-16.html",
@@ -900,14 +906,16 @@
 					}
 				}
 			],
-			"brand": "Nike",
-			"price": {
-				"value": "165",
-				"currencyCode": "USD"
-			},
-			"color": "White/Concord"
+			"brand": "Nike"
 		},
 		{
+			"price": {
+				"value": "65",
+				"currencyCode": "USD"
+			},
+			"color": "Royal Pulse/University Red/University Red",
+			"richTextDescription": "The Chile Top is a high-stretch design built to wear ahead of kickoff. It's made of sweat-wicking fabric to help keep you comfortable on the pitch.",
+			"name": "FEDERACION DE FUTBOL DE CHILE Jersey",
 			"slug": "tops/top-17.html",
 			"photoGallery": [
 				{
@@ -945,22 +953,9 @@
 					}
 				}
 			],
-			"brand": "Nike",
-			"price": {
-				"value": "65",
-				"currencyCode": "USD"
-			},
-			"color": "Royal Pulse/University Red/University Red",
-			"richTextDescription": "The Chile Top is a high-stretch design built to wear ahead of kickoff. It's made of sweat-wicking fabric to help keep you comfortable on the pitch.",
-			"name": "FEDERACION DE FUTBOL DE CHILE Jersey"
+			"brand": "Nike"
 		},
 		{
-			"price": {
-				"value": "165",
-				"currencyCode": "USD"
-			},
-			"color": "Teal Tint/Black",
-			"richTextDescription": "The Portugal Vapor Match Away Jersey is the same design worn by the pros on the field. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance. Team details are inspired by the country's street art scene and the the power of youth. This product is made with at least 50% recycled polyester.",
 			"name": "Portugal 2020 Vapor Match Away",
 			"slug": "tops/top-18.html",
 			"photoGallery": [
@@ -994,11 +989,15 @@
 					}
 				}
 			],
-			"brand": "Nike"
+			"brand": "Nike",
+			"price": {
+				"value": "165",
+				"currencyCode": "USD"
+			},
+			"color": "Teal Tint/Black",
+			"richTextDescription": "The Portugal Vapor Match Away Jersey is the same design worn by the pros on the field. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance. Team details are inspired by the country's street art scene and the the power of youth. This product is made with at least 50% recycled polyester."
 		},
 		{
-			"name": "U.S. 2020 Vapor Match Home",
-			"slug": "tops/top-19.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -1041,7 +1040,9 @@
 				"currencyCode": "USD"
 			},
 			"color": "White/Loyal Blue",
-			"richTextDescription": "The U.S. Vapor Match Home Jersey is the same design worn by the pros on the field. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance."
+			"richTextDescription": "The U.S. Vapor Match Home Jersey is the same design worn by the pros on the field. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance.",
+			"name": "U.S. 2020 Vapor Match Home",
+			"slug": "tops/top-19.html"
 		},
 		{
 			"name": "England 2020 Vapor Match Away",
@@ -1086,6 +1087,13 @@
 			"richTextDescription": "The England Vapor Match Away Jersey is a classic polo amped up with a '90s-inspired graphic that embodies the energy of England's next generation. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance. This product is made with at least 75% recycled polyester."
 		},
 		{
+			"brand": "Nike",
+			"price": {
+				"value": "165",
+				"currencyCode": "USD"
+			},
+			"color": "Soar/Midwest Gold",
+			"richTextDescription": "The Brasil Vapor Match Away Jersey gives you the same look worn by your favorite players. Its stretchy, streamlined design moves with you, while breathable fabric wicks sweat and dries exceptionally fast for peak performance. This product is made with 100% recycled polyester.",
 			"name": "Brasil 2020 Vapor Match Away",
 			"slug": "tops/top-21.html",
 			"photoGallery": [
@@ -1123,16 +1131,8 @@
 						]
 					}
 				}
-			],
-			"brand": "Nike",
-			"price": {
-				"value": "165",
-				"currencyCode": "USD"
-			},
-			"color": "Soar/Midwest Gold",
-			"richTextDescription": "The Brasil Vapor Match Away Jersey gives you the same look worn by your favorite players. Its stretchy, streamlined design moves with you, while breathable fabric wicks sweat and dries exceptionally fast for peak performance. This product is made with 100% recycled polyester."
+			]
 		}
 	],
-	"id": "tops",
-	"uid": 14745776
+	"id": "tops"
 }

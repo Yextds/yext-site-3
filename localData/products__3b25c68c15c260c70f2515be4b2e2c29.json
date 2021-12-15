@@ -1,7 +1,22 @@
 {
 	"id": "hat-14",
 	"richTextDescription": "Multi\\-colored Adult Propeller Hat. The rainbow propeller top hat is made of polyester, soft and comfortable. A great comical novelty item. Plastic Propeller attached on top of Hat. Attention grabbing colorful panels, fun for party, parades, costume events, and casual use.",
+	"name": "Adult Propeller Baseball Hat",
+	"slug": "hats/hat-14.html",
+	"price": {
+		"value": "16.50",
+		"currencyCode": "USD"
+	},
 	"brand": "Interstellar Propeller",
+	"uid": 14745779,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 30000,
+			"id": "product"
+		},
+		"updateTimestamp": "2021-11-10T14:30:54Z"
+	},
 	"color": "Rainbow",
 	"photoGallery": [
 		{
@@ -57,20 +72,5 @@
 				]
 			}
 		}
-	],
-	"uid": 14745779,
-	"meta": {
-		"locale": "en",
-		"entityType": {
-			"uid": 30000,
-			"id": "product"
-		},
-		"updateTimestamp": "2021-11-10T14:30:54Z"
-	},
-	"name": "Adult Propeller Baseball Hat",
-	"slug": "hats/hat-14.html",
-	"price": {
-		"value": "16.50",
-		"currencyCode": "USD"
-	}
+	]
 }

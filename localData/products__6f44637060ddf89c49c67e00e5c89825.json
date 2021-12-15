@@ -1,11 +1,12 @@
 {
-	"id": "hat-10",
-	"richTextDescription": "Artesano's hats are made from Toquilla straw that's carefully hand-cut and sourced from the leaves of a Carludovica Palmata plant, so it can take up to four months to finish just one. This 'Santarem' style has a wide, structured brim and is decorated with the label's signature tagua beads.",
-	"brand": "Artesano",
-	"slug": "hats/hat-10.html",
-	"price": {
-		"value": "260",
-		"currencyCode": "USD"
+	"uid": 14745781,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 30000,
+			"id": "product"
+		},
+		"updateTimestamp": "2021-11-09T14:28:33Z"
 	},
 	"color": "Camel",
 	"photoGallery": [
@@ -68,14 +69,13 @@
 			}
 		}
 	],
-	"uid": 14745781,
-	"meta": {
-		"locale": "en",
-		"entityType": {
-			"uid": 30000,
-			"id": "product"
-		},
-		"updateTimestamp": "2021-11-09T14:28:33Z"
+	"id": "hat-10",
+	"richTextDescription": "Artesano's hats are made from Toquilla straw that's carefully hand-cut and sourced from the leaves of a Carludovica Palmata plant, so it can take up to four months to finish just one. This 'Santarem' style has a wide, structured brim and is decorated with the label's signature tagua beads.",
+	"name": "Santarem bead-embellished straw Panama hat",
+	"slug": "hats/hat-10.html",
+	"price": {
+		"value": "260",
+		"currencyCode": "USD"
 	},
-	"name": "Santarem bead-embellished straw Panama hat"
+	"brand": "Artesano"
 }

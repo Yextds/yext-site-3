@@ -1,4 +1,13 @@
 {
+	"id": "hat-1",
+	"richTextDescription": "Wide-leg pants, light-wash denim - '90s trends are back, and crocheted buckets hats are up next. AMIRI's version is designed with stripes and has a hidden wire in the brim so you can adjust the shape.",
+	"name": "Striped Crocheted Cotton Bucket Hat",
+	"slug": "hats/hat-1.html",
+	"price": {
+		"value": "590",
+		"currencyCode": "USD"
+	},
+	"brand": "Amiri",
 	"uid": 14745785,
 	"meta": {
 		"locale": "en",
@@ -7,12 +16,6 @@
 			"id": "product"
 		},
 		"updateTimestamp": "2021-11-09T14:28:33Z"
-	},
-	"name": "Striped Crocheted Cotton Bucket Hat",
-	"slug": "hats/hat-1.html",
-	"price": {
-		"value": "590",
-		"currencyCode": "USD"
 	},
 	"color": "Blue",
 	"photoGallery": [
@@ -45,8 +48,5 @@
 				]
 			}
 		}
-	],
-	"id": "hat-1",
-	"richTextDescription": "Wide-leg pants, light-wash denim - '90s trends are back, and crocheted buckets hats are up next. AMIRI's version is designed with stripes and has a hidden wire in the brim so you can adjust the shape.",
-	"brand": "Amiri"
+	]
 }

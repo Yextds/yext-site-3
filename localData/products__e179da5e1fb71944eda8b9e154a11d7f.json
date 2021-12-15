@@ -1,4 +1,5 @@
 {
+	"uid": 14745774,
 	"meta": {
 		"locale": "en",
 		"entityType": {
@@ -6,12 +7,6 @@
 			"id": "product"
 		},
 		"updateTimestamp": "2021-11-09T14:28:33Z"
-	},
-	"name": "Nike Sportswear Shorts",
-	"slug": "bottoms/bottom-1.html",
-	"price": {
-		"value": "45",
-		"currencyCode": "USD"
 	},
 	"color": "Chlorine Blue/Black",
 	"photoGallery": [
@@ -74,8 +69,13 @@
 			}
 		}
 	],
-	"uid": 14745774,
+	"id": "bottom-1",
 	"richTextDescription": "The Nike Sportswear Shorts have a breathable mesh lining and lightweight woven fabric. The back pocket has a drainage grommet ideal for days spent in or out of the water.",
-	"brand": "Nike",
-	"id": "bottom-1"
+	"name": "Nike Sportswear Shorts",
+	"slug": "bottoms/bottom-1.html",
+	"price": {
+		"value": "45",
+		"currencyCode": "USD"
+	},
+	"brand": "Nike"
 }

@@ -1,19 +1,13 @@
 {
-	"meta": {
-		"locale": "en",
-		"entityType": {
-			"uid": 30000,
-			"id": "product"
-		},
-		"updateTimestamp": "2021-11-09T14:28:33Z"
-	},
-	"name": "Printed linen-twill bucket hat",
 	"slug": "hats/hat-11.html",
 	"price": {
 		"value": "160",
 		"currencyCode": "USD"
 	},
-	"color": "Orange",
+	"brand": "Zimmermann",
+	"id": "hat-11",
+	"richTextDescription": "Zimmermann's bucket hat is printed with the same palm fronds and tropical birds as the label's shirt and maxi dress - coordinating pieces are key this season, so style yours with either. It's made from linen-twill and has ventilating metal eyelets at the side.",
+	"name": "Printed linen-twill bucket hat",
 	"photoGallery": [
 		{
 			"image": {
@@ -46,7 +40,13 @@
 		}
 	],
 	"uid": 14745782,
-	"richTextDescription": "Zimmermann's bucket hat is printed with the same palm fronds and tropical birds as the label's shirt and maxi dress - coordinating pieces are key this season, so style yours with either. It's made from linen-twill and has ventilating metal eyelets at the side.",
-	"brand": "Zimmermann",
-	"id": "hat-11"
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 30000,
+			"id": "product"
+		},
+		"updateTimestamp": "2021-11-09T14:28:33Z"
+	},
+	"color": "Orange"
 }

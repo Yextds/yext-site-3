@@ -1,7 +1,5 @@
 {
-	"richTextDescription": "Wanna be the very best? Like no one ever was? This Ash Ketchum flat bill, five panel, high\\-profile hat has a snapback closure. This hat is perfect for Pokemon trainers who want to take their game to the next level.",
-	"brand": "Nike",
-	"id": "hat-15",
+	"uid": 14745780,
 	"meta": {
 		"locale": "en",
 		"entityType": {
@@ -9,12 +7,6 @@
 			"id": "product"
 		},
 		"updateTimestamp": "2021-11-09T14:28:33Z"
-	},
-	"name": "Ash Ketchum Baseball Cap",
-	"slug": "hats/hat-15.html",
-	"price": {
-		"value": "12000",
-		"currencyCode": "USD"
 	},
 	"color": "Fire Red",
 	"photoGallery": [
@@ -77,5 +69,13 @@
 			}
 		}
 	],
-	"uid": 14745780
+	"id": "hat-15",
+	"richTextDescription": "Wanna be the very best? Like no one ever was? This Ash Ketchum flat bill, five panel, high\\-profile hat has a snapback closure. This hat is perfect for Pokemon trainers who want to take their game to the next level.",
+	"name": "Ash Ketchum Baseball Cap",
+	"slug": "hats/hat-15.html",
+	"price": {
+		"value": "12000",
+		"currencyCode": "USD"
+	},
+	"brand": "Nike"
 }

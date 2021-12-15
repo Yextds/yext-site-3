@@ -1,5 +1,13 @@
 {
-	"color": "Light Blue",
+	"slug": "bottoms/bottom-9.html",
+	"price": {
+		"value": "470.99",
+		"currencyCode": "USD"
+	},
+	"brand": "Palm Angels",
+	"id": "bottom-9",
+	"richTextDescription": "Relaxed\\-fit cotton poplin lounge pants striped in blue and white. High\\-rise. Graphic pattern printed in yellow and black throughout. Two\\-pocket styling. Belt loops at elasticized waistband. Detachable self\\-tie belt at waistband. Logo embroidered in blue at front leg.",
+	"name": "Blue Bear Pajama Lounge Pants",
 	"photoGallery": [
 		{
 			"image": {
@@ -69,13 +77,5 @@
 		},
 		"updateTimestamp": "2021-11-09T14:28:34Z"
 	},
-	"name": "Blue Bear Pajama Lounge Pants",
-	"slug": "bottoms/bottom-9.html",
-	"price": {
-		"value": "470.99",
-		"currencyCode": "USD"
-	},
-	"id": "bottom-9",
-	"richTextDescription": "Relaxed\\-fit cotton poplin lounge pants striped in blue and white. High\\-rise. Graphic pattern printed in yellow and black throughout. Two\\-pocket styling. Belt loops at elasticized waistband. Detachable self\\-tie belt at waistband. Logo embroidered in blue at front leg.",
-	"brand": "Palm Angels"
+	"color": "Light Blue"
 }

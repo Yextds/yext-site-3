@@ -1,11 +1,12 @@
 {
-	"id": "bottom-8",
-	"richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige.",
-	"brand": "Gucci",
-	"slug": "bottoms/bottom-8.html",
-	"price": {
-		"value": "20",
-		"currencyCode": "USD"
+	"uid": 14745786,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 30000,
+			"id": "product"
+		},
+		"updateTimestamp": "2021-11-09T14:28:34Z"
 	},
 	"color": "Camel",
 	"photoGallery": [
@@ -68,14 +69,13 @@
 			}
 		}
 	],
-	"uid": 14745786,
-	"meta": {
-		"locale": "en",
-		"entityType": {
-			"uid": 30000,
-			"id": "product"
-		},
-		"updateTimestamp": "2021-11-09T14:28:34Z"
+	"price": {
+		"value": "20",
+		"currencyCode": "USD"
 	},
-	"name": "Beige GG Logo Lounge Pants"
+	"brand": "Gucci",
+	"id": "bottom-8",
+	"richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige.",
+	"name": "Beige GG Logo Lounge Pants",
+	"slug": "bottoms/bottom-8.html"
 }
