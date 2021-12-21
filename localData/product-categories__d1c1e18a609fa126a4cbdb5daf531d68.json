@@ -1,5 +1,4 @@
 {
-	"slug": "products.html",
 	"c_relatedProducts": [
 		{
 			"name": "Armani Exchange Men Black Analogue Watch",
@@ -147,6 +146,10 @@
 			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nTan solid sling bag 1 main compartment, has a zip closure, 1 external pocket, 1 inner pocket  \nTablet sleeve: no  \nTwo handles with a non\\-detachable sling strap  \nWarranty: 3 months  \nWarranty provided by brand owner/manufacturer\n\n\n#### Size \\& Fit\n\nHeight: 7.62 cm  \nWidth: 22.86 cm  \nLength: 16 cm\n\n\n#### Material \\& Care\n\nSynthetic  \nWipe with a clean, dry cloth when needed"
 		},
 		{
+			"price": {
+				"value": "16",
+				"currencyCode": "USD"
+			},
 			"color": "Purple & Beige",
 			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n\n\n#### PRODUCT DETAILS\n\nPurple striped solid sling bag 1 main compartment, has a zip closure, 1 external pocket, 1 inner pockets  \nTablet sleeve: no  \nWarranty: 3 months  \nWarranty provided by brand owner/manufacturer\n\n\n\n\n#### Size \\& Fit\n\nHeight: 19 cm  \nWidth: 30 cm  \nDepth: 7 cm\n\n\n\n\n#### Material \\& Care\n\nSynthetic Leather  \nWipe with a clean, dry cloth to remove dust",
 			"name": "Baggit Women Purple & Beige Colourblocked Printed Sling Bag",
@@ -249,16 +252,9 @@
 					"details": "baggit women bag"
 				}
 			],
-			"brand": "Baggit",
-			"price": {
-				"value": "16",
-				"currencyCode": "USD"
-			}
+			"brand": "Baggit"
 		},
 		{
-			"color": "Blue",
-			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n\n\n#### PRODUCT DETAILS\n\nBlue solid shoulder bag has a zip closure  \n1 main compartment, 1 inner pocket  \nTwo Handles\n\n\n\n\n#### Size \\& Fit\n\nHeight: 29.5 cm  \nWidth: 32 cm  \nDepth: 13 cm\n\n\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust",
-			"name": "DressBerry Blue Solid Shoulder Bag",
 			"slug": "bags/bags-3.html",
 			"photoGallery": [
 				{
@@ -347,10 +343,12 @@
 			"price": {
 				"value": "26",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Blue",
+			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n\n\n#### PRODUCT DETAILS\n\nBlue solid shoulder bag has a zip closure  \n1 main compartment, 1 inner pocket  \nTwo Handles\n\n\n\n\n#### Size \\& Fit\n\nHeight: 29.5 cm  \nWidth: 32 cm  \nDepth: 13 cm\n\n\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust",
+			"name": "DressBerry Blue Solid Shoulder Bag"
 		},
 		{
-			"name": "Fossil NATE Men Black Analogue Watch JR1353",
 			"slug": "watch/watch-4.html",
 			"photoGallery": [
 				{
@@ -411,9 +409,12 @@
 				"currencyCode": "USD"
 			},
 			"color": "Black & Silver",
-			"richTextDescription": "# Fossil\n\n# NATE Men Black Analogue Watch JR1353\n\n# PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Quartz  \nPower source: Battery  \nDial style: Solid round stainless steel dial  \nFeatures: Reset Time, Date Aperture, Stop Watch  \nStrap style: Steel Toned bracelet style, stainless steel strap with a foldover closure  \nWater resistance: 50 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer\n\n\n#### Size \\& Fit\n\nDial width: 45 mm  \nStrap Width: 22 mm"
+			"richTextDescription": "# Fossil\n\n# NATE Men Black Analogue Watch JR1353\n\n# PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Quartz  \nPower source: Battery  \nDial style: Solid round stainless steel dial  \nFeatures: Reset Time, Date Aperture, Stop Watch  \nStrap style: Steel Toned bracelet style, stainless steel strap with a foldover closure  \nWater resistance: 50 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer\n\n\n#### Size \\& Fit\n\nDial width: 45 mm  \nStrap Width: 22 mm",
+			"name": "Fossil NATE Men Black Analogue Watch JR1353"
 		},
 		{
+			"color": "Pink",
+			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nDusty pink solid satchel, has a button closure  \n1 main compartment, 1 inner pocket  \nTablet sleeve: No  \nOne Handle with Detachable sling strap\n\n\n#### Size \\& Fit\n\nHeight: 7.5 cm  \nWidth: 22.5 cm  \nDepth: 14 cm\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust",
 			"name": "DressBerry Pink Solid Satchel Bag",
 			"slug": "bags/bags-6.html",
 			"photoGallery": [
@@ -456,16 +457,9 @@
 			"price": {
 				"value": "28",
 				"currencyCode": "USD"
-			},
-			"color": "Pink",
-			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nDusty pink solid satchel, has a button closure  \n1 main compartment, 1 inner pocket  \nTablet sleeve: No  \nOne Handle with Detachable sling strap\n\n\n#### Size \\& Fit\n\nHeight: 7.5 cm  \nWidth: 22.5 cm  \nDepth: 14 cm\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust"
+			}
 		},
 		{
-			"price": {
-				"value": "300",
-				"currencyCode": "USD"
-			},
-			"color": "Blue & Brown",
 			"richTextDescription": "# Tommy Hilfiger Men Blue \\& Brown Multi Function Analogue Watch TH1710453W\n\n#### PRODUCT DETAILS\n\nPack Contains: single watch  \nDisplay: analogue  \nMovement: quartz  \nPower Source: battery  \nDial style: Blue solid round stainless steel dial  \nFeatures: Multi function  \nStrap Style: Brown leather strap with tang closure  \nWater resistance: 30 m  \nComes in a signature Tommy Hilfiger case  \nWarranty: 2 years  \nWarranty provided by brand owner/manufacturer",
 			"name": "Tommy Hilfiger Multi Function Analogue Watch",
 			"slug": "watch/watch-2.html",
@@ -522,9 +516,15 @@
 					"details": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W"
 				}
 			],
-			"brand": "Tommy Hilfiger"
+			"brand": "Tommy Hilfiger",
+			"price": {
+				"value": "300",
+				"currencyCode": "USD"
+			},
+			"color": "Blue & Brown"
 		},
 		{
+			"richTextDescription": "# Athena\n\n# Calm Mauve Puff Sleeves Wrap Dress\n\n#### PRODUCT DETAILS\n\nBring out the diva with this fabulous wrap dress. Sporting a textured finish, tulip hemline, and puff sleeves, it will lend a mod look while accentuating your shape.\n\n\n* Calm mauve tone\n* Knitted wrap dress\n* V\\-neck\n* Short sleeves\n* Stylish tulip hem\n* Above knee length\n* Polyester, machine wash\n\n\n#### Size \\& Fit\n\nRegular Fit  \nThe model (height 5'8\") is wearing a size S\n\n\n#### Material \\& Care\n\nMaterial: Polyester  \nMachine Wash",
 			"name": "Athena Mauve Wrap Dress",
 			"slug": "dresses/dress-3.html",
 			"photoGallery": [
@@ -602,10 +602,14 @@
 				"value": "365",
 				"currencyCode": "USD"
 			},
-			"color": "Mauve",
-			"richTextDescription": "# Athena\n\n# Calm Mauve Puff Sleeves Wrap Dress\n\n#### PRODUCT DETAILS\n\nBring out the diva with this fabulous wrap dress. Sporting a textured finish, tulip hemline, and puff sleeves, it will lend a mod look while accentuating your shape.\n\n\n* Calm mauve tone\n* Knitted wrap dress\n* V\\-neck\n* Short sleeves\n* Stylish tulip hem\n* Above knee length\n* Polyester, machine wash\n\n\n#### Size \\& Fit\n\nRegular Fit  \nThe model (height 5'8\") is wearing a size S\n\n\n#### Material \\& Care\n\nMaterial: Polyester  \nMachine Wash"
+			"color": "Mauve"
 		},
 		{
+			"brand": "Athena",
+			"price": {
+				"value": "300",
+				"currencyCode": "USD"
+			},
 			"color": "Burgundy",
 			"richTextDescription": "# Athena\n\n# Dramatic Entrance Lantern Sleeve Wrap Dress in Plum\n\n#### PRODUCT DETAILS\n\n**Editor's Notes**  \nAthena presents this charming plum dress which would be an elegant choice to wear with a headpiece and gold accessories. Dramatic entrance, sorted!  \n**Details**  \nDesigned with chic off shoulder surplice neck, self\\-tie bowknot at waist and statement lantern sleeves. Styled with a pencil shape that sits on the knee.  \n**Key Highlights**  \nCross\\-over silhouette  \nPleated front  \nPerfect trans\\-seasonal wear  \n**We Got You Covered**  \nHip\\-Friendly, Midriff\\-Friendly\n\n\n#### Size \\& Fit\n\nRegular Fit  \nThe model (height 5'8\") is wearing a size S",
 			"name": "Athena Wrap Dress in Plum",
@@ -679,22 +683,9 @@
 					"description": "Athena Dramatic Entrance Lantern Sleeve Wrap Dress in Plum",
 					"details": "Athena Dramatic Entrance Lantern Sleeve Wrap Dress in Plum"
 				}
-			],
-			"brand": "Athena",
-			"price": {
-				"value": "300",
-				"currencyCode": "USD"
-			}
+			]
 		},
 		{
-			"price": {
-				"value": "985",
-				"currencyCode": "USD"
-			},
-			"color": "White & Black",
-			"richTextDescription": "# Calvin Klein Jeans\n\n# White \\& Black Animal Sheath Dress\n\n#### PRODUCT DETAILS\n\n* White and black animal print sheath dress\n* Shoulder straps\n* Sleeveless, no sleeves\n* Above knee length in curved hem\n\n\n#### Size \\& Fit\n\nThe model (height 5'8) is wearing a size S\n\n\n#### Material \\& Care\n\n100% Polyester  \nMachine wash",
-			"name": "Calvin Klein Animal Sheath Dress",
-			"slug": "dresses/dress-5.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -765,9 +756,18 @@
 					"details": "Calvin Klein Jeans White & Black Animal Sheath Dress"
 				}
 			],
-			"brand": "Calvin Klein Jeans"
+			"brand": "Calvin Klein Jeans",
+			"price": {
+				"value": "985",
+				"currencyCode": "USD"
+			},
+			"color": "White & Black",
+			"richTextDescription": "# Calvin Klein Jeans\n\n# White \\& Black Animal Sheath Dress\n\n#### PRODUCT DETAILS\n\n* White and black animal print sheath dress\n* Shoulder straps\n* Sleeveless, no sleeves\n* Above knee length in curved hem\n\n\n#### Size \\& Fit\n\nThe model (height 5'8) is wearing a size S\n\n\n#### Material \\& Care\n\n100% Polyester  \nMachine wash",
+			"name": "Calvin Klein Animal Sheath Dress",
+			"slug": "dresses/dress-5.html"
 		},
 		{
+			"slug": "dresses/dress-4.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -845,10 +845,10 @@
 			},
 			"color": "Off-White & Green",
 			"richTextDescription": "# SASSAFRAS\n\n# Off\\-White \\& Green Floral Printed Maxi Dress\n\n#### PRODUCT DETAILS\n\nOff\\-White and green printed woven maxi dress, has an off\\-shoulder neck, short sleeves, concealed zip closure, an attached lining, flared hem, front slit  \nComes with a belt\n\n\n#### Size \\& Fit\n\nSemi\\-Fit  \nThe model (height 5'8\") is wearing a size S\n\n\n#### Material \\& Care\n\nPolyester  \nMachine\\-wash",
-			"name": "SASSAFRAS Floral Printed Maxi Dress",
-			"slug": "dresses/dress-4.html"
+			"name": "SASSAFRAS Floral Printed Maxi Dress"
 		},
 		{
+			"brand": "Tokyo Talkies",
 			"price": {
 				"value": "265",
 				"currencyCode": "USD"
@@ -926,10 +926,14 @@
 					"description": "Tokyo Talkies Women Black Solid Bodycon Dress",
 					"details": "Tokyo Talkies Women Black Solid Bodycon Dress"
 				}
-			],
-			"brand": "Tokyo Talkies"
+			]
 		},
 		{
+			"price": {
+				"value": "24",
+				"currencyCode": "USD"
+			},
+			"color": "Black",
 			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n\n\n#### PRODUCT DETAILS\n\nBlack textured handheld bag, with quilted detail  \n1 main compartment, has a zip closure, 1 external pocket, 2 inner pockets  \nTablet sleeve: no  \nWith a detachable sling strap\n\n\n\n\n#### Size \\& Fit\n\nHeight:24 cm  \nWidth:32 cm  \nDepth:14 cm\n\n\n\n\n#### Material \\& Care\n\nWipe with a clean, dry cloth to remove dust",
 			"name": "Lavie Black Bag with Quilted",
 			"slug": "bags/bags-1.html",
@@ -1031,18 +1035,9 @@
 					"details": "myntra lavie bag"
 				}
 			],
-			"brand": "Lavie",
-			"price": {
-				"value": "24",
-				"currencyCode": "USD"
-			},
-			"color": "Black"
+			"brand": "Lavie"
 		},
 		{
-			"price": {
-				"value": "32",
-				"currencyCode": "USD"
-			},
 			"color": "Brown",
 			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nBrown ethnic motifs textured handheld bag, has a zip closure  \n1 main compartment, 5 inner pockets  \nTablet sleeve: Yes  \nTwo Handles\n\n\n#### Size \\& Fit\n\nHeight: 29 cm  \nWidth: 32cm  \nDepth: 13 cm\n\n\n#### Material \\& Care\n\nSynthetic leather  \nWipe with a clean, dry cloth to remove dust",
 			"name": "Lino Perros Brown Handheld Bag",
@@ -1100,7 +1095,11 @@
 					"details": "Lino Perros Brown Handheld Bag"
 				}
 			],
-			"brand": "Lino Perros"
+			"brand": "Lino Perros",
+			"price": {
+				"value": "32",
+				"currencyCode": "USD"
+			}
 		},
 		{
 			"color": "Green",
@@ -1167,6 +1166,8 @@
 			}
 		},
 		{
+			"name": "TISSOT Men Black Chronograph Watch",
+			"slug": "watch/watch-1.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -1243,12 +1244,9 @@
 				"currencyCode": "USD"
 			},
 			"color": "Blue",
-			"richTextDescription": "#### PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Automatic  \nPower source: Motion  \nDial style: Patterned round stainless steel dial  \nFeatures: Reset Time, Chronograph, Date Aperture  \nStrap style: Black cut work, leather strap with a tang closure  \nWater resistance: 100 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer  \nComes in a signature TISSOT case\n\n\n#### Size \\& Fit\n\nDial width:  \nStrap Width\n\n\n#### Material \\& Care\n\nWipe with a clean, dry cloth when needed",
-			"name": "TISSOT Men Black Chronograph Watch",
-			"slug": "watch/watch-1.html"
+			"richTextDescription": "#### PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Automatic  \nPower source: Motion  \nDial style: Patterned round stainless steel dial  \nFeatures: Reset Time, Chronograph, Date Aperture  \nStrap style: Black cut work, leather strap with a tang closure  \nWater resistance: 100 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer  \nComes in a signature TISSOT case\n\n\n#### Size \\& Fit\n\nDial width:  \nStrap Width\n\n\n#### Material \\& Care\n\nWipe with a clean, dry cloth when needed"
 		},
 		{
-			"name": "Bonjour Kids Socks",
 			"slug": "socks/socks-1.html",
 			"photoGallery": [
 				{
@@ -1292,18 +1290,10 @@
 				"currencyCode": "USD"
 			},
 			"color": "Black, Grey",
-			"richTextDescription": "# Bonjour\n\n# Kids Pack Of 2 AssortedWoolen Calf Length Socks\n\n#### PRODUCT DETAILS\n\nPack of two pairs of assorted calf\\-length socks, each has a ribbed mouth and flat toe seam  \nDisclaimer: The final product delivered might vary in color and prints from the display here\n\n\n#### Size \\& Fit\n\n6 \\- 8 Years,Regular\n\n\n#### Material \\& Care\n\nPure Wool  \nHand Wash / Machine Wash"
+			"richTextDescription": "# Bonjour\n\n# Kids Pack Of 2 AssortedWoolen Calf Length Socks\n\n#### PRODUCT DETAILS\n\nPack of two pairs of assorted calf\\-length socks, each has a ribbed mouth and flat toe seam  \nDisclaimer: The final product delivered might vary in color and prints from the display here\n\n\n#### Size \\& Fit\n\n6 \\- 8 Years,Regular\n\n\n#### Material \\& Care\n\nPure Wool  \nHand Wash / Machine Wash",
+			"name": "Bonjour Kids Socks"
 		},
 		{
-			"brand": "FOOTPRINTS",
-			"price": {
-				"value": "399",
-				"currencyCode": "USD"
-			},
-			"color": "Grey & White",
-			"richTextDescription": "# FOOTPRINTS\n\n# Unisex Infants Grey \\& White Pack Of 6 Striped Socks\n\n#### PRODUCT DETAILS\n\nGrey, brown, black, red, blue \\& white set of 6 striped socks  \n**Key Features:**\n\n\n* Organic Cotton\n* Anti Bacterial\n* Anti Microbial\n* Anti Allergic\\- No Skin rashes and irritation\n\n\n#### Material \\& Care\n\nBamboo  \nMachine wash  \nDo not tumble dry",
-			"name": "FOOTPRINTS Unisex Infants Socks",
-			"slug": "socks/socks-2.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -1356,9 +1346,24 @@
 					"description": "FOOTPRINTS Unisex Infants Grey & White Pack Of 6 Striped Socks",
 					"details": "FOOTPRINTS Unisex Infants Grey & White Pack Of 6 Striped Socks"
 				}
-			]
+			],
+			"brand": "FOOTPRINTS",
+			"price": {
+				"value": "399",
+				"currencyCode": "USD"
+			},
+			"color": "Grey & White",
+			"richTextDescription": "# FOOTPRINTS\n\n# Unisex Infants Grey \\& White Pack Of 6 Striped Socks\n\n#### PRODUCT DETAILS\n\nGrey, brown, black, red, blue \\& white set of 6 striped socks  \n**Key Features:**\n\n\n* Organic Cotton\n* Anti Bacterial\n* Anti Microbial\n* Anti Allergic\\- No Skin rashes and irritation\n\n\n#### Material \\& Care\n\nBamboo  \nMachine wash  \nDo not tumble dry",
+			"name": "FOOTPRINTS Unisex Infants Socks",
+			"slug": "socks/socks-2.html"
 		},
 		{
+			"brand": "Pantaloons",
+			"price": {
+				"value": "99",
+				"currencyCode": "USD"
+			},
+			"color": "Off-white, Blue",
 			"richTextDescription": "# Pantaloons Junior\n\n# Boys Pack Of 3 Assorted Ankle\\-Length Socks\n\n#### PRODUCT DETAILS\n\nPack of 3 assorted ankle\\-length socks, each has a ribbed mouth with flat toe seam  \nDisclaimer: The final product delivered might vary in colour and prints from the display here\n\n\n#### Material \\& Care\n\n85% Cotton, 13% nylon and 2% spandex  \nMachine wash",
 			"name": "Pantaloons Ankle-Length Socks",
 			"slug": "socks/socks-3.html",
@@ -1414,15 +1419,13 @@
 					"description": "Pantaloons Junior Boys Pack Of 3 Assorted Ankle-Length Socks",
 					"details": "Pantaloons Junior Boys Pack Of 3 Assorted Ankle-Length Socks"
 				}
-			],
-			"brand": "Pantaloons",
-			"price": {
-				"value": "99",
-				"currencyCode": "USD"
-			},
-			"color": "Off-white, Blue"
+			]
 		},
 		{
+			"color": "Blue",
+			"richTextDescription": "# Yellow Bee\n\n# Blue Anti Skid Rubber Sole Socks\n\n#### PRODUCT DETAILS\n\nBlue striped ankle length socks, has a ribbed mouth and a flat toe seam  \nFeature: Anti skid\n\n\n#### Material \\& Care\n\nCotton\\& Rubber  \nHand Wash",
+			"name": "Yellow Bee Rubber Sole Socks",
+			"slug": "socks/socks-4.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -1514,11 +1517,7 @@
 			"price": {
 				"value": "139",
 				"currencyCode": "USD"
-			},
-			"color": "Blue",
-			"richTextDescription": "# Yellow Bee\n\n# Blue Anti Skid Rubber Sole Socks\n\n#### PRODUCT DETAILS\n\nBlue striped ankle length socks, has a ribbed mouth and a flat toe seam  \nFeature: Anti skid\n\n\n#### Material \\& Care\n\nCotton\\& Rubber  \nHand Wash",
-			"name": "Yellow Bee Rubber Sole Socks",
-			"slug": "socks/socks-4.html"
+			}
 		}
 	],
 	"id": "products",
@@ -1531,5 +1530,6 @@
 		},
 		"updateTimestamp": "2021-12-15T12:39:34Z"
 	},
-	"name": "All Products"
+	"name": "All Products",
+	"slug": "products.html"
 }
