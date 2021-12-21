@@ -1,6 +1,19 @@
 {
+	"id": "bags",
+	"uid": 15492578,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 72700,
+			"id": "ce_productCategory"
+		},
+		"updateTimestamp": "2021-12-20T13:25:05Z"
+	},
+	"name": "Bags",
+	"slug": "bags.html",
 	"c_relatedProducts": [
 		{
+			"slug": "bags/bags-1.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -106,12 +119,9 @@
 			},
 			"color": "Black",
 			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n\n\n#### PRODUCT DETAILS\n\nBlack textured handheld bag, with quilted detail  \n1 main compartment, has a zip closure, 1 external pocket, 2 inner pockets  \nTablet sleeve: no  \nWith a detachable sling strap\n\n\n\n\n#### Size \\& Fit\n\nHeight:24 cm  \nWidth:32 cm  \nDepth:14 cm\n\n\n\n\n#### Material \\& Care\n\nWipe with a clean, dry cloth to remove dust",
-			"name": "Lavie Black Bag with Quilted",
-			"slug": "bags/bags-1.html"
+			"name": "Lavie Black Bag with Quilted"
 		},
 		{
-			"color": "Purple & Beige",
-			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n\n\n#### PRODUCT DETAILS\n\nPurple striped solid sling bag 1 main compartment, has a zip closure, 1 external pocket, 1 inner pockets  \nTablet sleeve: no  \nWarranty: 3 months  \nWarranty provided by brand owner/manufacturer\n\n\n\n\n#### Size \\& Fit\n\nHeight: 19 cm  \nWidth: 30 cm  \nDepth: 7 cm\n\n\n\n\n#### Material \\& Care\n\nSynthetic Leather  \nWipe with a clean, dry cloth to remove dust",
 			"name": "Baggit Women Purple & Beige Colourblocked Printed Sling Bag",
 			"slug": "bags/bags-2.html",
 			"photoGallery": [
@@ -216,10 +226,11 @@
 			"price": {
 				"value": "16",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Purple & Beige",
+			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n\n\n#### PRODUCT DETAILS\n\nPurple striped solid sling bag 1 main compartment, has a zip closure, 1 external pocket, 1 inner pockets  \nTablet sleeve: no  \nWarranty: 3 months  \nWarranty provided by brand owner/manufacturer\n\n\n\n\n#### Size \\& Fit\n\nHeight: 19 cm  \nWidth: 30 cm  \nDepth: 7 cm\n\n\n\n\n#### Material \\& Care\n\nSynthetic Leather  \nWipe with a clean, dry cloth to remove dust"
 		},
 		{
-			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n\n\n#### PRODUCT DETAILS\n\nBlue solid shoulder bag has a zip closure  \n1 main compartment, 1 inner pocket  \nTwo Handles\n\n\n\n\n#### Size \\& Fit\n\nHeight: 29.5 cm  \nWidth: 32 cm  \nDepth: 13 cm\n\n\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust",
 			"name": "DressBerry Blue Solid Shoulder Bag",
 			"slug": "bags/bags-3.html",
 			"photoGallery": [
@@ -310,10 +321,10 @@
 				"value": "26",
 				"currencyCode": "USD"
 			},
-			"color": "Blue"
+			"color": "Blue",
+			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n\n\n#### PRODUCT DETAILS\n\nBlue solid shoulder bag has a zip closure  \n1 main compartment, 1 inner pocket  \nTwo Handles\n\n\n\n\n#### Size \\& Fit\n\nHeight: 29.5 cm  \nWidth: 32 cm  \nDepth: 13 cm\n\n\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust"
 		},
 		{
-			"name": "Yelloe Black Solid Sling Bag",
 			"slug": "bags/bags-4.html",
 			"photoGallery": [
 				{
@@ -374,9 +385,17 @@
 				"currencyCode": "USD"
 			},
 			"color": "Black",
-			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nBlack solid sling bag, has a button closure  \n1 main compartment, 2 inner pockets  \nTablet sleeve: No\n\n\n#### Size \\& Fit\n\nHeight: 25.4 cm  \nWidth: 30.48 cm  \nDepth: 10.16 cm\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust"
+			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nBlack solid sling bag, has a button closure  \n1 main compartment, 2 inner pockets  \nTablet sleeve: No\n\n\n#### Size \\& Fit\n\nHeight: 25.4 cm  \nWidth: 30.48 cm  \nDepth: 10.16 cm\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust",
+			"name": "Yelloe Black Solid Sling Bag"
 		},
 		{
+			"brand": "Lino Perros",
+			"price": {
+				"value": "32",
+				"currencyCode": "USD"
+			},
+			"color": "Brown",
+			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nBrown ethnic motifs textured handheld bag, has a zip closure  \n1 main compartment, 5 inner pockets  \nTablet sleeve: Yes  \nTwo Handles\n\n\n#### Size \\& Fit\n\nHeight: 29 cm  \nWidth: 32cm  \nDepth: 13 cm\n\n\n#### Material \\& Care\n\nSynthetic leather  \nWipe with a clean, dry cloth to remove dust",
 			"name": "Lino Perros Brown Handheld Bag",
 			"slug": "bags/bags-5.html",
 			"photoGallery": [
@@ -431,16 +450,17 @@
 					"description": "Lino Perros Brown Handheld Bag",
 					"details": "Lino Perros Brown Handheld Bag"
 				}
-			],
-			"brand": "Lino Perros",
-			"price": {
-				"value": "32",
-				"currencyCode": "USD"
-			},
-			"color": "Brown",
-			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nBrown ethnic motifs textured handheld bag, has a zip closure  \n1 main compartment, 5 inner pockets  \nTablet sleeve: Yes  \nTwo Handles\n\n\n#### Size \\& Fit\n\nHeight: 29 cm  \nWidth: 32cm  \nDepth: 13 cm\n\n\n#### Material \\& Care\n\nSynthetic leather  \nWipe with a clean, dry cloth to remove dust"
+			]
 		},
 		{
+			"brand": "DressBerry",
+			"price": {
+				"value": "28",
+				"currencyCode": "USD"
+			},
+			"color": "Pink",
+			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nDusty pink solid satchel, has a button closure  \n1 main compartment, 1 inner pocket  \nTablet sleeve: No  \nOne Handle with Detachable sling strap\n\n\n#### Size \\& Fit\n\nHeight: 7.5 cm  \nWidth: 22.5 cm  \nDepth: 14 cm\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust",
+			"name": "DressBerry Pink Solid Satchel Bag",
 			"slug": "bags/bags-6.html",
 			"photoGallery": [
 				{
@@ -477,15 +497,7 @@
 					"description": "DressBerry Pink Solid Satchel Bag",
 					"details": "DressBerry Pink Solid Satchel Bag"
 				}
-			],
-			"brand": "DressBerry",
-			"price": {
-				"value": "28",
-				"currencyCode": "USD"
-			},
-			"color": "Pink",
-			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nDusty pink solid satchel, has a button closure  \n1 main compartment, 1 inner pocket  \nTablet sleeve: No  \nOne Handle with Detachable sling strap\n\n\n#### Size \\& Fit\n\nHeight: 7.5 cm  \nWidth: 22.5 cm  \nDepth: 14 cm\n\n\n#### Material \\& Care\n\nPU  \nWipe with a clean, dry cloth to remove dust",
-			"name": "DressBerry Pink Solid Satchel Bag"
+			]
 		},
 		{
 			"brand": "WOMEN MARKS",
@@ -552,9 +564,6 @@
 			]
 		},
 		{
-			"color": "Tan",
-			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nTan solid sling bag 1 main compartment, has a zip closure, 1 external pocket, 1 inner pocket  \nTablet sleeve: no  \nTwo handles with a non\\-detachable sling strap  \nWarranty: 3 months  \nWarranty provided by brand owner/manufacturer\n\n\n#### Size \\& Fit\n\nHeight: 7.62 cm  \nWidth: 22.86 cm  \nLength: 16 cm\n\n\n#### Material \\& Care\n\nSynthetic  \nWipe with a clean, dry cloth when needed",
-			"name": "Baggit Tan Structured Sling Bag",
 			"slug": "bags/bags-8.html",
 			"photoGallery": [
 				{
@@ -613,19 +622,10 @@
 			"price": {
 				"value": "30",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Tan",
+			"richTextDescription": "* 100% Original Products\n* Pay on delivery might be available\n* Easy 30 days returns and exchanges\n* Try \\& Buy might be available\n\n\n#### PRODUCT DETAILS\n\nTan solid sling bag 1 main compartment, has a zip closure, 1 external pocket, 1 inner pocket  \nTablet sleeve: no  \nTwo handles with a non\\-detachable sling strap  \nWarranty: 3 months  \nWarranty provided by brand owner/manufacturer\n\n\n#### Size \\& Fit\n\nHeight: 7.62 cm  \nWidth: 22.86 cm  \nLength: 16 cm\n\n\n#### Material \\& Care\n\nSynthetic  \nWipe with a clean, dry cloth when needed",
+			"name": "Baggit Tan Structured Sling Bag"
 		}
-	],
-	"id": "bags",
-	"uid": 15492578,
-	"meta": {
-		"locale": "en",
-		"entityType": {
-			"uid": 72700,
-			"id": "ce_productCategory"
-		},
-		"updateTimestamp": "2021-12-14T06:24:23Z"
-	},
-	"name": "Bags",
-	"slug": "bags.html"
+	]
 }

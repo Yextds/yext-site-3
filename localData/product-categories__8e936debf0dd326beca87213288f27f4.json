@@ -1,6 +1,9 @@
 {
+	"slug": "watch.html",
 	"c_relatedProducts": [
 		{
+			"name": "TISSOT Men Black Chronograph Watch",
+			"slug": "watch/watch-1.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -77,9 +80,216 @@
 				"currencyCode": "USD"
 			},
 			"color": "Blue",
-			"richTextDescription": "#### PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Automatic  \nPower source: Motion  \nDial style: Patterned round stainless steel dial  \nFeatures: Reset Time, Chronograph, Date Aperture  \nStrap style: Black cut work, leather strap with a tang closure  \nWater resistance: 100 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer  \nComes in a signature TISSOT case\n\n\n#### Size \\& Fit\n\nDial width:  \nStrap Width\n\n\n#### Material \\& Care\n\nWipe with a clean, dry cloth when needed",
-			"name": "TISSOT Men Black Chronograph Watch",
-			"slug": "watch/watch-1.html"
+			"richTextDescription": "#### PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Automatic  \nPower source: Motion  \nDial style: Patterned round stainless steel dial  \nFeatures: Reset Time, Chronograph, Date Aperture  \nStrap style: Black cut work, leather strap with a tang closure  \nWater resistance: 100 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer  \nComes in a signature TISSOT case\n\n\n#### Size \\& Fit\n\nDial width:  \nStrap Width\n\n\n#### Material \\& Care\n\nWipe with a clean, dry cloth when needed"
+		},
+		{
+			"photoGallery": [
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/_Hor_DlYW4l0C3L_5s402g9m_elkj2KmgInPYW4jf5Q/423x462.png",
+						"alternateText": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W",
+						"width": 423,
+						"height": 462,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/_Hor_DlYW4l0C3L_5s402g9m_elkj2KmgInPYW4jf5Q/423x462.png",
+								"width": 423,
+								"height": 462
+							}
+						]
+					},
+					"description": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W",
+					"details": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/KQnTW8j0E8BqULGcmZJQZmmNpaYIh9Z0YmglP2gAtkY/421x518.png",
+						"alternateText": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W",
+						"width": 421,
+						"height": 518,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/KQnTW8j0E8BqULGcmZJQZmmNpaYIh9Z0YmglP2gAtkY/421x518.png",
+								"width": 421,
+								"height": 518
+							}
+						]
+					},
+					"description": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W",
+					"details": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/dkYS91rHe2fumJYlM2IBI1Tg3TholFR6zaNS6S1zfr4/426x546.png",
+						"alternateText": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W",
+						"width": 426,
+						"height": 546,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/dkYS91rHe2fumJYlM2IBI1Tg3TholFR6zaNS6S1zfr4/426x546.png",
+								"width": 426,
+								"height": 546
+							}
+						]
+					},
+					"description": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W",
+					"details": "Tommy Hilfiger Men Blue & Brown Multi Function Analogue Watch TH1710453W"
+				}
+			],
+			"brand": "Tommy Hilfiger",
+			"price": {
+				"value": "300",
+				"currencyCode": "USD"
+			},
+			"color": "Blue & Brown",
+			"richTextDescription": "# Tommy Hilfiger Men Blue \\& Brown Multi Function Analogue Watch TH1710453W\n\n#### PRODUCT DETAILS\n\nPack Contains: single watch  \nDisplay: analogue  \nMovement: quartz  \nPower Source: battery  \nDial style: Blue solid round stainless steel dial  \nFeatures: Multi function  \nStrap Style: Brown leather strap with tang closure  \nWater resistance: 30 m  \nComes in a signature Tommy Hilfiger case  \nWarranty: 2 years  \nWarranty provided by brand owner/manufacturer",
+			"name": "Tommy Hilfiger Multi Function Analogue Watch",
+			"slug": "watch/watch-2.html"
+		},
+		{
+			"photoGallery": [
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/Kk_JooRgqvzaftg-Os4vZ7C1spfdHVCXchRUqNtUFaA/417x528.png",
+						"alternateText": "Armani Exchange Men Black Analogue Watch",
+						"width": 417,
+						"height": 528,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/Kk_JooRgqvzaftg-Os4vZ7C1spfdHVCXchRUqNtUFaA/417x528.png",
+								"width": 417,
+								"height": 528
+							}
+						]
+					},
+					"description": "Armani Exchange Men Black Analogue Watch",
+					"details": "Armani Exchange Men Black Analogue Watch"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/SpC4W8sXgqmTHu0BJQr072U0nKMhMzqc1Ef8sjRSZnc/427x505.png",
+						"alternateText": "Armani Exchange Men Black Analogue Watch",
+						"width": 427,
+						"height": 505,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/SpC4W8sXgqmTHu0BJQr072U0nKMhMzqc1Ef8sjRSZnc/427x505.png",
+								"width": 427,
+								"height": 505
+							}
+						]
+					},
+					"description": "Armani Exchange Men Black Analogue Watch",
+					"details": "Armani Exchange Men Black Analogue Watch"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/tCNmiu97sbLnu8Rxo18RHtqKO-6nCnFjiYlCcspfULs/421x509.png",
+						"alternateText": "Armani Exchange Men Black Analogue Watch",
+						"width": 421,
+						"height": 509,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/tCNmiu97sbLnu8Rxo18RHtqKO-6nCnFjiYlCcspfULs/421x509.png",
+								"width": 421,
+								"height": 509
+							}
+						]
+					},
+					"description": "Armani Exchange Men Black Analogue Watch",
+					"details": "Armani Exchange Men Black Analogue Watch"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/F_JxC00tT92s7Dwp5GPJRDpO-VhFo__VNVhHhnZ4FxU/426x524.png",
+						"alternateText": "Armani Exchange Men Black Analogue Watch",
+						"width": 426,
+						"height": 524,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/F_JxC00tT92s7Dwp5GPJRDpO-VhFo__VNVhHhnZ4FxU/426x524.png",
+								"width": 426,
+								"height": 524
+							}
+						]
+					},
+					"description": "Armani Exchange Men Black Analogue Watch",
+					"details": "Armani Exchange Men Black Analogue Watch"
+				}
+			],
+			"brand": "Armani Exchange",
+			"price": {
+				"value": "520",
+				"currencyCode": "USD"
+			},
+			"color": "Black",
+			"richTextDescription": "# Armani Exchange\n\n# Men Black Analogue Watch\n\n#### PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Quartz  \nPower source: Battery  \nDial style: Solid round stainless steel dial  \nFeatures: Reset Time, Date Aperture, Chronograph  \nStrap style: Black regular, rubber strap with a tang closure  \nWater resistance: 30 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer\n\n\n#### Size \\& Fit\n\nDial width: 40 mm  \nStrap Width: 21 mm",
+			"name": "Armani Exchange Men Black Analogue Watch",
+			"slug": "watch/watch-3.html"
+		},
+		{
+			"richTextDescription": "# Fossil\n\n# NATE Men Black Analogue Watch JR1353\n\n# PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Quartz  \nPower source: Battery  \nDial style: Solid round stainless steel dial  \nFeatures: Reset Time, Date Aperture, Stop Watch  \nStrap style: Steel Toned bracelet style, stainless steel strap with a foldover closure  \nWater resistance: 50 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer\n\n\n#### Size \\& Fit\n\nDial width: 45 mm  \nStrap Width: 22 mm",
+			"name": "Fossil NATE Men Black Analogue Watch JR1353",
+			"slug": "watch/watch-4.html",
+			"photoGallery": [
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/DAWtobb5Yv6SRO3DcjFJiY7THCBW_PQ_dh2gIvaOoBM/420x536.png",
+						"alternateText": "Fossil NATE Men Black Analogue Watch JR1353",
+						"width": 420,
+						"height": 536,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/DAWtobb5Yv6SRO3DcjFJiY7THCBW_PQ_dh2gIvaOoBM/420x536.png",
+								"width": 420,
+								"height": 536
+							}
+						]
+					},
+					"description": "Fossil NATE Men Black Analogue Watch JR1353",
+					"details": "Fossil NATE Men Black Analogue Watch JR1353"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/qqFB9dc3_iiDYJ2oN3gTRIlSCdrkXVelmzx3E3OCmgc/429x551.png",
+						"alternateText": "Fossil NATE Men Black Analogue Watch JR1353",
+						"width": 429,
+						"height": 551,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/qqFB9dc3_iiDYJ2oN3gTRIlSCdrkXVelmzx3E3OCmgc/429x551.png",
+								"width": 429,
+								"height": 551
+							}
+						]
+					},
+					"description": "Fossil NATE Men Black Analogue Watch JR1353",
+					"details": "Fossil NATE Men Black Analogue Watch JR1353"
+				},
+				{
+					"image": {
+						"url": "https://a.mktgcdn.com/p-sandbox/iW1dsM77uEV7x2Wz6hGH1Cr2YPTj7ZABK_636pvBKYE/428x490.png",
+						"alternateText": "Fossil NATE Men Black Analogue Watch JR1353",
+						"width": 428,
+						"height": 490,
+						"thumbnails": [
+							{
+								"url": "https://a.mktgcdn.com/p-sandbox/iW1dsM77uEV7x2Wz6hGH1Cr2YPTj7ZABK_636pvBKYE/428x490.png",
+								"width": 428,
+								"height": 490
+							}
+						]
+					},
+					"description": "Fossil NATE Men Black Analogue Watch JR1353",
+					"details": "Fossil NATE Men Black Analogue Watch JR1353"
+				}
+			],
+			"brand": "Fossil",
+			"price": {
+				"value": "350",
+				"currencyCode": "USD"
+			},
+			"color": "Black & Silver"
 		}
 	],
 	"id": "watch",
@@ -90,8 +300,7 @@
 			"uid": 72700,
 			"id": "ce_productCategory"
 		},
-		"updateTimestamp": "2021-12-14T09:31:26Z"
+		"updateTimestamp": "2021-12-20T13:24:15Z"
 	},
-	"name": "Watch",
-	"slug": "watch.html"
+	"name": "Watch"
 }

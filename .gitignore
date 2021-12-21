@@ -8,3 +8,4 @@ localData/
 cli.exe
 sites-rendered-output/
 yext
+*.bak

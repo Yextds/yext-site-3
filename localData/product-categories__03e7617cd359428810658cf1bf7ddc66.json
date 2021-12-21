@@ -1,19 +1,11 @@
 {
-	"id": "shoes",
-	"uid": 14745847,
-	"meta": {
-		"locale": "en",
-		"entityType": {
-			"uid": 72700,
-			"id": "ce_productCategory"
-		},
-		"updateTimestamp": "2021-11-09T14:28:28Z"
-	},
 	"name": "Shoes",
 	"slug": "shoes.html",
 	"richTextDescription": "Build your look from the ground up with the best selection of shoes and boots, including our spring and summer edit of loafers, sandals, espadrilles and slides. Sneakerhead? You've come to the right place \\- you'll find the latest sneaker releases from the likes of Nike, Gucci, and Balenciaga here.",
 	"c_relatedProducts": [
 		{
+			"name": "Jordan Delta Breathe",
+			"slug": "shoes/shoe-1.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -56,14 +48,9 @@
 				"currencyCode": "USD"
 			},
 			"color": "Clear/Light Bone/Varsity Red/Medium Grey",
-			"richTextDescription": "Inspired by high-tech functionality and handmade craftsmanship, the Jordan Delta Breathe combines natural and synthetic materials. The result is a lifestyle shoe that's lightweight, breathable and comfortable all day. The layered mix of diverse elements creates a distinct look and feel with subtle nods to Jordan DNA. Nike React foam offers responsive cushioning on the move.",
-			"name": "Jordan Delta Breathe",
-			"slug": "shoes/shoe-1.html"
+			"richTextDescription": "Inspired by high-tech functionality and handmade craftsmanship, the Jordan Delta Breathe combines natural and synthetic materials. The result is a lifestyle shoe that's lightweight, breathable and comfortable all day. The layered mix of diverse elements creates a distinct look and feel with subtle nods to Jordan DNA. Nike React foam offers responsive cushioning on the move."
 		},
 		{
-			"color": "Pale Ivory/Black/Alpha Orange/Pink Blast",
-			"richTextDescription": "Russell Westbrook backs up his brashness with a fast, aggressive playing style and numbers that place him among the league's best. His all-new Jordan One Take II embodies his edginess and speed. Colors, textures and design lines speak to Russ' persona both on and off the court.",
-			"name": "Jordan One Take II",
 			"slug": "shoes/shoe-2.html",
 			"photoGallery": [
 				{
@@ -100,12 +87,12 @@
 			"price": {
 				"value": "100",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Pale Ivory/Black/Alpha Orange/Pink Blast",
+			"richTextDescription": "Russell Westbrook backs up his brashness with a fast, aggressive playing style and numbers that place him among the league's best. His all-new Jordan One Take II embodies his edginess and speed. Colors, textures and design lines speak to Russ' persona both on and off the court.",
+			"name": "Jordan One Take II"
 		},
 		{
-			"richTextDescription": "Shatter the sneaker status quo in the Jordan MA2. It's built with a mix of diverse materials and design details that touch on the brand's heritage while forging a fresh identity. Easy to get on and off and comfortable all day, it wears with just about anything.",
-			"name": "Jordan MA2",
-			"slug": "shoes/shoe-3.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -142,9 +129,18 @@
 				"value": "125",
 				"currencyCode": "USD"
 			},
-			"color": "Black/Tropical Twist/White/Multi-Color"
+			"color": "Black/Tropical Twist/White/Multi-Color",
+			"richTextDescription": "Shatter the sneaker status quo in the Jordan MA2. It's built with a mix of diverse materials and design details that touch on the brand's heritage while forging a fresh identity. Easy to get on and off and comfortable all day, it wears with just about anything.",
+			"name": "Jordan MA2",
+			"slug": "shoes/shoe-3.html"
 		},
 		{
+			"price": {
+				"value": "80",
+				"currencyCode": "USD"
+			},
+			"color": "Black/Ghost Green/Black/White",
+			"richTextDescription": "Fresh and functional, the Jordan LS Slide offers step-in comfort. It has an adjustable fold-over strap built on a Solarsoft foam footbed, plus a removable heel strap to personalize your fit. A removable stash pocket ups the utility.",
 			"name": "Jordan LS Slide",
 			"slug": "shoes/shoe-4.html",
 			"photoGallery": [
@@ -178,19 +174,9 @@
 					}
 				}
 			],
-			"brand": "Nike",
-			"price": {
-				"value": "80",
-				"currencyCode": "USD"
-			},
-			"color": "Black/Ghost Green/Black/White",
-			"richTextDescription": "Fresh and functional, the Jordan LS Slide offers step-in comfort. It has an adjustable fold-over strap built on a Solarsoft foam footbed, plus a removable heel strap to personalize your fit. A removable stash pocket ups the utility."
+			"brand": "Nike"
 		},
 		{
-			"price": {
-				"value": "160",
-				"currencyCode": "USD"
-			},
 			"richTextDescription": "A player of LeBron’s power and agility needs a light yet strong shoe that harnesses his force but still allows him to move with precision. The LeBron 18 Low “Summer Refresh” colorway bursts onto the court with bright lime and mango hues. It’s lower and lighter than his game shoe, with Max Air plus Nike React foam providing impact cushioning and responsiveness. A padded, sculpted collar and the streamlined heel clip help secure the foot during games.",
 			"name": "LeBron 18 Low \"Summer Refresh\"",
 			"slug": "shoes/shoe-5.html",
@@ -225,9 +211,18 @@
 					}
 				}
 			],
-			"brand": "Nike"
+			"brand": "Nike",
+			"price": {
+				"value": "160",
+				"currencyCode": "USD"
+			}
 		},
 		{
+			"brand": "Nike",
+			"price": {
+				"value": "99.97",
+				"currencyCode": "USD"
+			},
 			"color": "Sail/Black/Team Orange",
 			"richTextDescription": "Kyrie Irving's ability to stop, go and cut while handling the ball is unrivaled. The Kyrie Low 3 enables agility and traction in multiple directions while helping keep quick-cutting players locked in over the cushioning. Its low-cut design has aggressive rubber tread that wraps up the sides and a secure midfoot strap for a secure on-court feel.",
 			"name": "Kyrie Low 3",
@@ -262,23 +257,9 @@
 						]
 					}
 				}
-			],
-			"brand": "Nike",
-			"price": {
-				"value": "99.97",
-				"currencyCode": "USD"
-			}
+			]
 		},
 		{
-			"brand": "Nike",
-			"price": {
-				"value": "72.97",
-				"currencyCode": "USD"
-			},
-			"color": "Crimson/Green Apple/Volt/White",
-			"richTextDescription": "Paul George is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.",
-			"name": "PG 4",
-			"slug": "shoes/shoe-7.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -309,9 +290,24 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "Nike",
+			"price": {
+				"value": "72.97",
+				"currencyCode": "USD"
+			},
+			"color": "Crimson/Green Apple/Volt/White",
+			"richTextDescription": "Paul George is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.",
+			"name": "PG 4",
+			"slug": "shoes/shoe-7.html"
 		},
 		{
+			"price": {
+				"value": "200",
+				"currencyCode": "USD"
+			},
+			"color": "University Blue/Multi-Color/Metallic Gold",
+			"richTextDescription": "When LeBron accelerates down the court, he produces tremendous force. The LeBron 18 \"Best 1-9\" is designed to harness his abilities while helping with the stress he puts on his body. Combined cushioning underfoot helps him to use his power for unstoppable bursts of speed. This eclectic colorway combines hues from some of the most renowned colorways throughout the history of The King's signature line.",
 			"name": "LeBron 18 \"Best 1-9\"",
 			"slug": "shoes/shoe-8.html",
 			"photoGallery": [
@@ -345,24 +341,9 @@
 					}
 				}
 			],
-			"brand": "Nike",
-			"price": {
-				"value": "200",
-				"currencyCode": "USD"
-			},
-			"color": "University Blue/Multi-Color/Metallic Gold",
-			"richTextDescription": "When LeBron accelerates down the court, he produces tremendous force. The LeBron 18 \"Best 1-9\" is designed to harness his abilities while helping with the stress he puts on his body. Combined cushioning underfoot helps him to use his power for unstoppable bursts of speed. This eclectic colorway combines hues from some of the most renowned colorways throughout the history of The King's signature line."
+			"brand": "Nike"
 		},
 		{
-			"brand": "Nike",
-			"price": {
-				"value": "8859",
-				"currencyCode": "USD"
-			},
-			"color": "wolf grey/sail/photon dust/white",
-			"richTextDescription": "Part of a collection between the fashion house and Jordan Brand, the Dior x Air Jordan 1 High released in April 2020. The shoe's Italian leather upper appears in a mix of white and grey, with a Dior Oblique jacquard Swoosh contrasting the side wall. The tongue tag and 'Wings' logo sport co-branding, with further branding revealed by the icy translucent outsole.",
-			"name": "DIOR X AIR DJORDAN 1 HIGH",
-			"slug": "shoes/shoe-9.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -451,11 +432,18 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "Nike",
+			"price": {
+				"value": "8859",
+				"currencyCode": "USD"
+			},
+			"color": "wolf grey/sail/photon dust/white",
+			"richTextDescription": "Part of a collection between the fashion house and Jordan Brand, the Dior x Air Jordan 1 High released in April 2020. The shoe's Italian leather upper appears in a mix of white and grey, with a Dior Oblique jacquard Swoosh contrasting the side wall. The tongue tag and 'Wings' logo sport co-branding, with further branding revealed by the icy translucent outsole.",
+			"name": "DIOR X AIR DJORDAN 1 HIGH",
+			"slug": "shoes/shoe-9.html"
 		},
 		{
-			"color": "baroque brown/black/laser orange/racer pink",
-			"richTextDescription": "The Air Jordan 1 Retro High OG 'Tokyo Bio Hack' features inspiration from the Japanese capital. The shoe's upper is built with a mix of leather and suede, finished in a color-blocked look that brings to mind Undefeated's Nike Dunk High NL collaboration from 2005. Underfoot, the painted Air midsole provides cushioning, giving way to a concentric outsole for traction.",
 			"name": "AIR JORDAN 1 RETRO HIGH 'TOKYO BIO HACK'",
 			"slug": "shoes/shoe-10.html",
 			"photoGallery": [
@@ -522,14 +510,11 @@
 			"price": {
 				"value": "300",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "baroque brown/black/laser orange/racer pink",
+			"richTextDescription": "The Air Jordan 1 Retro High OG 'Tokyo Bio Hack' features inspiration from the Japanese capital. The shoe's upper is built with a mix of leather and suede, finished in a color-blocked look that brings to mind Undefeated's Nike Dunk High NL collaboration from 2005. Underfoot, the painted Air midsole provides cushioning, giving way to a concentric outsole for traction."
 		},
 		{
-			"price": {
-				"value": "15000",
-				"currencyCode": "USD"
-			},
-			"color": "Fast Red",
 			"richTextDescription": "Original. Versatile. Comfortable.  \nIt's the iconic clog that started a comfort revolution around the world! The irreverent go\\-to comfort shoe that you're sure to fall deeper in love with day after day. There are only 10 pairs of the Lightning McQueen series world\\-wide due to his speed.",
 			"name": "Lightning McQueen Limited Edition Crocs",
 			"slug": "shoes/shoe-13.html",
@@ -564,10 +549,14 @@
 					}
 				}
 			],
-			"brand": "Crocs"
+			"brand": "Crocs",
+			"price": {
+				"value": "15000",
+				"currencyCode": "USD"
+			},
+			"color": "Fast Red"
 		},
 		{
-			"richTextDescription": "TOM FORD's 'Jago' sneakers mark the label's foray into streetwear - though it's worth noting that they're as exceptionally well-made as the brand's signature formalwear. Crafted in Italy from panels of leather, neoprene and suede, this chunky pair has cushioned insoles for support and is set on lightweight rubber soles.",
 			"name": "Jago Neoprene, Suede and Leather Sneakers",
 			"slug": "shoes/shoe-14.html",
 			"photoGallery": [
@@ -630,14 +619,10 @@
 				"value": "990",
 				"currencyCode": "USD"
 			},
-			"color": "Orange"
+			"color": "Orange",
+			"richTextDescription": "TOM FORD's 'Jago' sneakers mark the label's foray into streetwear - though it's worth noting that they're as exceptionally well-made as the brand's signature formalwear. Crafted in Italy from panels of leather, neoprene and suede, this chunky pair has cushioned insoles for support and is set on lightweight rubber soles."
 		},
 		{
-			"brand": "Tom Ford",
-			"price": {
-				"value": "990",
-				"currencyCode": "USD"
-			},
 			"color": "Purple",
 			"richTextDescription": "TOM FORD's 'Brighton' sandals have two wide velvet straps that feel soft and plush against your skin. Made in Italy, they're fitted with quilted satin footbeds that not only add a pop of colour but are lightly padded for comfort, too.",
 			"name": "Brighton Velvet Sandals",
@@ -696,14 +681,14 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "Tom Ford",
+			"price": {
+				"value": "990",
+				"currencyCode": "USD"
+			}
 		},
 		{
-			"brand": "Brunello Cucinelli",
-			"price": {
-				"value": "595",
-				"currencyCode": "USD"
-			},
 			"color": "Light Brown",
 			"richTextDescription": "A dedication to excellence flows throughout Brunello Cucinelli's collections, from the tailoring to its meticulously crafted footwear. Designed with neat polished buckles, these sandals have suede straps and footbeds for a comfortable tread. The fabric will develop a characterful patina over time.",
 			"name": "Suede Sandals",
@@ -762,9 +747,18 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "Brunello Cucinelli",
+			"price": {
+				"value": "595",
+				"currencyCode": "USD"
+			}
 		},
 		{
+			"price": {
+				"value": "510",
+				"currencyCode": "USD"
+			},
 			"color": "Pink",
 			"richTextDescription": "When comfort is your concern, Bottega Veneta's sandals offer ease and support. They've been made in Italy from smooth rubber and set on serrated soles for traction. The thick straps ensure a secure fit.",
 			"name": "Pink Rubber Sandals",
@@ -824,22 +818,9 @@
 					}
 				}
 			],
-			"brand": "Bottega Veneta",
-			"price": {
-				"value": "510",
-				"currencyCode": "USD"
-			}
+			"brand": "Bottega Veneta"
 		},
 		{
-			"brand": "Gucci",
-			"price": {
-				"value": "490",
-				"currencyCode": "USD"
-			},
-			"color": "Multi",
-			"richTextDescription": "Part of the brand's 'GG Multicolour' capsule, Gucci's sandals celebrate the sheer joy of colour. They're made from monogrammed canvas and have moulded footbeds and gripped rubber soles for comfort.",
-			"name": "Leather-Trimmed Monogrammed Canvas Sandals",
-			"slug": "shoes/shoe-18.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -894,7 +875,26 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "Gucci",
+			"price": {
+				"value": "490",
+				"currencyCode": "USD"
+			},
+			"color": "Multi",
+			"richTextDescription": "Part of the brand's 'GG Multicolour' capsule, Gucci's sandals celebrate the sheer joy of colour. They're made from monogrammed canvas and have moulded footbeds and gripped rubber soles for comfort.",
+			"name": "Leather-Trimmed Monogrammed Canvas Sandals",
+			"slug": "shoes/shoe-18.html"
 		}
-	]
+	],
+	"id": "shoes",
+	"uid": 14745847,
+	"meta": {
+		"locale": "en",
+		"entityType": {
+			"uid": 72700,
+			"id": "ce_productCategory"
+		},
+		"updateTimestamp": "2021-11-09T14:28:28Z"
+	}
 }
