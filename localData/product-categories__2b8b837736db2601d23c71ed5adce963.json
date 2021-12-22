@@ -1,10 +1,8 @@
 {
+	"slug": "bottoms.html",
 	"richTextDescription": "Elevate your wardrobe with our collection of designer pants and trousers. Whether you're looking for formal officewear, casual pants for a relaxing weekend, or dress pants for your next evening engagement, you will be sure to find the perfect piece among our selection.",
 	"c_relatedProducts": [
 		{
-			"color": "Chlorine Blue/Black",
-			"richTextDescription": "The Nike Sportswear Shorts have a breathable mesh lining and lightweight woven fabric. The back pocket has a drainage grommet ideal for days spent in or out of the water.",
-			"name": "Nike Sportswear Shorts",
 			"slug": "bottoms/bottom-1.html",
 			"photoGallery": [
 				{
@@ -70,9 +68,18 @@
 			"price": {
 				"value": "45",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Chlorine Blue/Black",
+			"richTextDescription": "The Nike Sportswear Shorts have a breathable mesh lining and lightweight woven fabric. The back pocket has a drainage grommet ideal for days spent in or out of the water.",
+			"name": "Nike Sportswear Shorts"
 		},
 		{
+			"brand": "Gucci",
+			"price": {
+				"value": "1250",
+				"currencyCode": "USD"
+			},
+			"color": "Green",
 			"richTextDescription": "Taking cues from basketball styles, Gucci's shorts are cut in a longer length from technical jersey with a silky handle. They're printed all-over with the house's 'Marmont' monogram and trimmed with recognisable red and green webbing.",
 			"name": "Webbing-Trimmed Monogrammed Tech-Jersey Drawstring Shorts",
 			"slug": "bottoms/bottom-2.html",
@@ -106,15 +113,13 @@
 						]
 					}
 				}
-			],
-			"brand": "Gucci",
-			"price": {
-				"value": "1250",
-				"currencyCode": "USD"
-			},
-			"color": "Green"
+			]
 		},
 		{
+			"color": "Multi",
+			"richTextDescription": "Ms Chitose Abe collaborates with American conceptual artist Mr Hank Willis Thomas for SS21, choosing to revive several of Sacai's archival prints. Made in Japan, these shorts are patchworked together from twill swatches in leopard, florals, graphic shapes and various scenes. They have a wide-leg, dropped-seat shape and coordinating integrated belt.",
+			"name": "Hank Willis Thomas Wide-Leg Logo-Appliquéd Pendleton-Print Patchwork Twill Shorts",
+			"slug": "bottoms/bottom-3.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -174,11 +179,7 @@
 			"price": {
 				"value": "1105",
 				"currencyCode": "USD"
-			},
-			"color": "Multi",
-			"richTextDescription": "Ms Chitose Abe collaborates with American conceptual artist Mr Hank Willis Thomas for SS21, choosing to revive several of Sacai's archival prints. Made in Japan, these shorts are patchworked together from twill swatches in leopard, florals, graphic shapes and various scenes. They have a wide-leg, dropped-seat shape and coordinating integrated belt.",
-			"name": "Hank Willis Thomas Wide-Leg Logo-Appliquéd Pendleton-Print Patchwork Twill Shorts",
-			"slug": "bottoms/bottom-3.html"
+			}
 		},
 		{
 			"richTextDescription": "AMIRI's SS20 show at Paris' Musée des Arts Décoratifs paid tribute to the spirit of Woodstock. These comfortable shorts are cut from smooth silk-twill and printed with symmetrical egrets, which are symbolic of peace and harmony. Use the drawstring waistband to adjust the fit.",
@@ -257,6 +258,7 @@
 			"color": "Black"
 		},
 		{
+			"color": "Green",
 			"richTextDescription": "Nicknamed 'The Fashion Gardener' for his vibrant botanical prints, Mr Ken Scott helped develop the floral motifs we now so readily associate with the '60s and '70s. Gucci's silk-crepe shorts showcase oversized daisies from the American designer's archive and are appliquéd with an emblem on the back.",
 			"name": "Ken Scott Wide-Leg Floral-Print Silk-Crepe Shorts",
 			"slug": "bottoms/bottom-5.html",
@@ -319,10 +321,10 @@
 			"price": {
 				"value": "980",
 				"currencyCode": "USD"
-			},
-			"color": "Green"
+			}
 		},
 		{
+			"richTextDescription": "Gucci's AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit.",
 			"name": "Wide-Leg Pleated Wool-Flannel Shorts",
 			"slug": "bottoms/bottom-6.html",
 			"photoGallery": [
@@ -395,8 +397,7 @@
 				"value": "950",
 				"currencyCode": "USD"
 			},
-			"color": "Gray",
-			"richTextDescription": "Gucci's AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit."
+			"color": "Gray"
 		},
 		{
 			"name": "Brown GG Flora Lounge Pants",
@@ -756,6 +757,5 @@
 		},
 		"updateTimestamp": "2021-11-09T14:28:33Z"
 	},
-	"name": "Bottoms",
-	"slug": "bottoms.html"
+	"name": "Bottoms"
 }
