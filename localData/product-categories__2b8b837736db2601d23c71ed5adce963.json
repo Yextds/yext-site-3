@@ -1,6 +1,4 @@
 {
-	"slug": "bottoms.html",
-	"richTextDescription": "Elevate your wardrobe with our collection of designer pants and trousers. Whether you're looking for formal officewear, casual pants for a relaxing weekend, or dress pants for your next evening engagement, you will be sure to find the perfect piece among our selection.",
 	"c_relatedProducts": [
 		{
 			"slug": "bottoms/bottom-1.html",
@@ -74,7 +72,6 @@
 			"name": "Nike Sportswear Shorts"
 		},
 		{
-			"brand": "Gucci",
 			"price": {
 				"value": "1250",
 				"currencyCode": "USD"
@@ -113,9 +110,15 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "Gucci"
 		},
 		{
+			"brand": "Sacai",
+			"price": {
+				"value": "1105",
+				"currencyCode": "USD"
+			},
 			"color": "Multi",
 			"richTextDescription": "Ms Chitose Abe collaborates with American conceptual artist Mr Hank Willis Thomas for SS21, choosing to revive several of Sacai's archival prints. Made in Japan, these shorts are patchworked together from twill swatches in leopard, florals, graphic shapes and various scenes. They have a wide-leg, dropped-seat shape and coordinating integrated belt.",
 			"name": "Hank Willis Thomas Wide-Leg Logo-Appliquéd Pendleton-Print Patchwork Twill Shorts",
@@ -174,17 +177,9 @@
 						]
 					}
 				}
-			],
-			"brand": "Sacai",
-			"price": {
-				"value": "1105",
-				"currencyCode": "USD"
-			}
+			]
 		},
 		{
-			"richTextDescription": "AMIRI's SS20 show at Paris' Musée des Arts Décoratifs paid tribute to the spirit of Woodstock. These comfortable shorts are cut from smooth silk-twill and printed with symmetrical egrets, which are symbolic of peace and harmony. Use the drawstring waistband to adjust the fit.",
-			"name": "Printed Silk-Twill Drawstring Shorts",
-			"slug": "bottoms/bottom-4.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -255,7 +250,10 @@
 				"value": "990",
 				"currencyCode": "USD"
 			},
-			"color": "Black"
+			"color": "Black",
+			"richTextDescription": "AMIRI's SS20 show at Paris' Musée des Arts Décoratifs paid tribute to the spirit of Woodstock. These comfortable shorts are cut from smooth silk-twill and printed with symmetrical egrets, which are symbolic of peace and harmony. Use the drawstring waistband to adjust the fit.",
+			"name": "Printed Silk-Twill Drawstring Shorts",
+			"slug": "bottoms/bottom-4.html"
 		},
 		{
 			"color": "Green",
@@ -324,8 +322,6 @@
 			}
 		},
 		{
-			"richTextDescription": "Gucci's AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit.",
-			"name": "Wide-Leg Pleated Wool-Flannel Shorts",
 			"slug": "bottoms/bottom-6.html",
 			"photoGallery": [
 				{
@@ -397,9 +393,17 @@
 				"value": "950",
 				"currencyCode": "USD"
 			},
-			"color": "Gray"
+			"color": "Gray",
+			"richTextDescription": "Gucci's AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit.",
+			"name": "Wide-Leg Pleated Wool-Flannel Shorts"
 		},
 		{
+			"price": {
+				"value": "40",
+				"currencyCode": "USD"
+			},
+			"color": "Brown",
+			"richTextDescription": "Tapered technical jersey lounge pants featuring logo pattern in brown and beige and multicolor graphic print throughout. Mid\\-rise. Drawstring in off\\-white at elasticized waistband. Two\\-pocket styling. Tape trim in red and green at outseams.",
 			"name": "Brown GG Flora Lounge Pants",
 			"slug": "bottoms/bottom-7.html",
 			"photoGallery": [
@@ -462,21 +466,9 @@
 					}
 				}
 			],
-			"brand": "Gucci",
-			"price": {
-				"value": "40",
-				"currencyCode": "USD"
-			},
-			"color": "Brown",
-			"richTextDescription": "Tapered technical jersey lounge pants featuring logo pattern in brown and beige and multicolor graphic print throughout. Mid\\-rise. Drawstring in off\\-white at elasticized waistband. Two\\-pocket styling. Tape trim in red and green at outseams."
+			"brand": "Gucci"
 		},
 		{
-			"price": {
-				"value": "20",
-				"currencyCode": "USD"
-			},
-			"color": "Camel",
-			"richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige.",
 			"name": "Beige GG Logo Lounge Pants",
 			"slug": "bottoms/bottom-8.html",
 			"photoGallery": [
@@ -539,11 +531,15 @@
 					}
 				}
 			],
-			"brand": "Gucci"
+			"brand": "Gucci",
+			"price": {
+				"value": "20",
+				"currencyCode": "USD"
+			},
+			"color": "Camel",
+			"richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige."
 		},
 		{
-			"name": "Blue Bear Pajama Lounge Pants",
-			"slug": "bottoms/bottom-9.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -610,11 +606,11 @@
 				"currencyCode": "USD"
 			},
 			"color": "Light Blue",
-			"richTextDescription": "Relaxed\\-fit cotton poplin lounge pants striped in blue and white. High\\-rise. Graphic pattern printed in yellow and black throughout. Two\\-pocket styling. Belt loops at elasticized waistband. Detachable self\\-tie belt at waistband. Logo embroidered in blue at front leg."
+			"richTextDescription": "Relaxed\\-fit cotton poplin lounge pants striped in blue and white. High\\-rise. Graphic pattern printed in yellow and black throughout. Two\\-pocket styling. Belt loops at elasticized waistband. Detachable self\\-tie belt at waistband. Logo embroidered in blue at front leg.",
+			"name": "Blue Bear Pajama Lounge Pants",
+			"slug": "bottoms/bottom-9.html"
 		},
 		{
-			"color": "Lilac",
-			"richTextDescription": "Straight\\-leg cotton and silk\\-blend twill trousers in pink. High\\-rise. Four\\-pocket styling. Belt loops at waistband. Pleats at front. Flap pocket and hammer loop at outseams. Central creases at back. Zip\\-fly. Partial silk satin lining. Logo\\-engraved grey hardware.",
 			"name": "Pink Twill Cargo Trousers",
 			"slug": "bottoms/bottom-10.html",
 			"photoGallery": [
@@ -677,10 +673,11 @@
 					}
 				}
 			],
-			"brand": "Nina Ricci"
+			"brand": "Nina Ricci",
+			"color": "Lilac",
+			"richTextDescription": "Straight\\-leg cotton and silk\\-blend twill trousers in pink. High\\-rise. Four\\-pocket styling. Belt loops at waistband. Pleats at front. Flap pocket and hammer loop at outseams. Central creases at back. Zip\\-fly. Partial silk satin lining. Logo\\-engraved grey hardware."
 		},
 		{
-			"name": "Multicolor Faye Wei Wei Marbled Jeans",
 			"slug": "bottoms/bottom-11.html",
 			"photoGallery": [
 				{
@@ -744,7 +741,8 @@
 			],
 			"brand": "Chopova Lowena",
 			"color": "Multi",
-			"richTextDescription": "Wide\\-leg non\\-stretch denim jeans featuring pattern in multicolor throughout. Mid\\-rise. Two\\-pocket styling. Belt loops at waistband. Textile patch at front and back waistband. Zip\\-fly. Silver\\-tone hardware. Contrast stitching in tan."
+			"richTextDescription": "Wide\\-leg non\\-stretch denim jeans featuring pattern in multicolor throughout. Mid\\-rise. Two\\-pocket styling. Belt loops at waistband. Textile patch at front and back waistband. Zip\\-fly. Silver\\-tone hardware. Contrast stitching in tan.",
+			"name": "Multicolor Faye Wei Wei Marbled Jeans"
 		}
 	],
 	"id": "bottoms",
@@ -757,5 +755,7 @@
 		},
 		"updateTimestamp": "2021-11-09T14:28:33Z"
 	},
-	"name": "Bottoms"
+	"name": "Bottoms",
+	"slug": "bottoms.html",
+	"richTextDescription": "Elevate your wardrobe with our collection of designer pants and trousers. Whether you're looking for formal officewear, casual pants for a relaxing weekend, or dress pants for your next evening engagement, you will be sure to find the perfect piece among our selection."
 }

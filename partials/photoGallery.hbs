@@ -1,6 +1,6 @@
 
 {{#each this}}    
 {{#if @first}}    
-    <img class="absolute top-0 left-0 w-full h-full object-contain" alt="product" src={{this.image.url}}>
+    <img class="absolute top-0 left-0 w-full h-full object-contain transition-all duration-1000 transform scale-100 group-hover:scale-150" alt="product" src={{this.image.url}}>
 {{/if}}
 {{/each}}

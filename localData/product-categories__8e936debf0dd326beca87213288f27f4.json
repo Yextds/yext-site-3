@@ -1,10 +1,7 @@
 {
-	"name": "Watch",
-	"slug": "watch.html",
 	"richTextDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam sollicitudin tempor id eu. Id consectetur purus ut faucibus pulvinar. Tristique et egestas quis ipsum suspendisse ultrices. Quam quisque id diam vel quam elementum pulvinar. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Parturient montes nascetur ridiculus mus. Dui id ornare arcu odio ut sem. Facilisis volutpat est velit egestas dui id. Aliquet nibh praesent tristique magna.",
 	"c_relatedProducts": [
 		{
-			"richTextDescription": "#### PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Automatic  \nPower source: Motion  \nDial style: Patterned round stainless steel dial  \nFeatures: Reset Time, Chronograph, Date Aperture  \nStrap style: Black cut work, leather strap with a tang closure  \nWater resistance: 100 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer  \nComes in a signature TISSOT case\n\n\n#### Size \\& Fit\n\nDial width:  \nStrap Width\n\n\n#### Material \\& Care\n\nWipe with a clean, dry cloth when needed",
 			"name": "TISSOT Men Black Chronograph Watch",
 			"slug": "watch/watch-1.html",
 			"photoGallery": [
@@ -82,7 +79,8 @@
 				"value": "210",
 				"currencyCode": "USD"
 			},
-			"color": "Blue"
+			"color": "Blue",
+			"richTextDescription": "#### PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Automatic  \nPower source: Motion  \nDial style: Patterned round stainless steel dial  \nFeatures: Reset Time, Chronograph, Date Aperture  \nStrap style: Black cut work, leather strap with a tang closure  \nWater resistance: 100 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer  \nComes in a signature TISSOT case\n\n\n#### Size \\& Fit\n\nDial width:  \nStrap Width\n\n\n#### Material \\& Care\n\nWipe with a clean, dry cloth when needed"
 		},
 		{
 			"price": {
@@ -230,6 +228,8 @@
 			}
 		},
 		{
+			"name": "Fossil NATE Men Black Analogue Watch JR1353",
+			"slug": "watch/watch-4.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -289,9 +289,7 @@
 				"currencyCode": "USD"
 			},
 			"color": "Black & Silver",
-			"richTextDescription": "# Fossil\n\n# NATE Men Black Analogue Watch JR1353\n\n# PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Quartz  \nPower source: Battery  \nDial style: Solid round stainless steel dial  \nFeatures: Reset Time, Date Aperture, Stop Watch  \nStrap style: Steel Toned bracelet style, stainless steel strap with a foldover closure  \nWater resistance: 50 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer\n\n\n#### Size \\& Fit\n\nDial width: 45 mm  \nStrap Width: 22 mm",
-			"name": "Fossil NATE Men Black Analogue Watch JR1353",
-			"slug": "watch/watch-4.html"
+			"richTextDescription": "# Fossil\n\n# NATE Men Black Analogue Watch JR1353\n\n# PRODUCT DETAILS\n\nDisplay: Analogue  \nMovement: Quartz  \nPower source: Battery  \nDial style: Solid round stainless steel dial  \nFeatures: Reset Time, Date Aperture, Stop Watch  \nStrap style: Steel Toned bracelet style, stainless steel strap with a foldover closure  \nWater resistance: 50 m  \nWarranty: 2 years  \nWarranty provided by brand/manufacturer\n\n\n#### Size \\& Fit\n\nDial width: 45 mm  \nStrap Width: 22 mm"
 		}
 	],
 	"id": "watch",
@@ -303,5 +301,7 @@
 			"id": "ce_productCategory"
 		},
 		"updateTimestamp": "2021-12-22T07:03:47Z"
-	}
+	},
+	"name": "Watch",
+	"slug": "watch.html"
 }
