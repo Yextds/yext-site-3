@@ -1,6 +1,15 @@
 {
+	"richTextDescription": "Elevate your wardrobe with our collection of designer pants and trousers. Whether you're looking for formal officewear, casual pants for a relaxing weekend, or dress pants for your next evening engagement, you will be sure to find the perfect piece among our selection.",
 	"c_relatedProducts": [
 		{
+			"brand": "Nike",
+			"price": {
+				"value": "45",
+				"currencyCode": "USD"
+			},
+			"color": "Chlorine Blue/Black",
+			"richTextDescription": "The Nike Sportswear Shorts have a breathable mesh lining and lightweight woven fabric. The back pocket has a drainage grommet ideal for days spent in or out of the water.",
+			"name": "Nike Sportswear Shorts",
 			"slug": "bottoms/bottom-1.html",
 			"photoGallery": [
 				{
@@ -61,15 +70,7 @@
 						]
 					}
 				}
-			],
-			"brand": "Nike",
-			"price": {
-				"value": "45",
-				"currencyCode": "USD"
-			},
-			"color": "Chlorine Blue/Black",
-			"richTextDescription": "The Nike Sportswear Shorts have a breathable mesh lining and lightweight woven fabric. The back pocket has a drainage grommet ideal for days spent in or out of the water.",
-			"name": "Nike Sportswear Shorts"
+			]
 		},
 		{
 			"price": {
@@ -114,12 +115,6 @@
 			"brand": "Gucci"
 		},
 		{
-			"brand": "Sacai",
-			"price": {
-				"value": "1105",
-				"currencyCode": "USD"
-			},
-			"color": "Multi",
 			"richTextDescription": "Ms Chitose Abe collaborates with American conceptual artist Mr Hank Willis Thomas for SS21, choosing to revive several of Sacai's archival prints. Made in Japan, these shorts are patchworked together from twill swatches in leopard, florals, graphic shapes and various scenes. They have a wide-leg, dropped-seat shape and coordinating integrated belt.",
 			"name": "Hank Willis Thomas Wide-Leg Logo-Appliquéd Pendleton-Print Patchwork Twill Shorts",
 			"slug": "bottoms/bottom-3.html",
@@ -177,9 +172,23 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "Sacai",
+			"price": {
+				"value": "1105",
+				"currencyCode": "USD"
+			},
+			"color": "Multi"
 		},
 		{
+			"price": {
+				"value": "990",
+				"currencyCode": "USD"
+			},
+			"color": "Black",
+			"richTextDescription": "AMIRI's SS20 show at Paris' Musée des Arts Décoratifs paid tribute to the spirit of Woodstock. These comfortable shorts are cut from smooth silk-twill and printed with symmetrical egrets, which are symbolic of peace and harmony. Use the drawstring waistband to adjust the fit.",
+			"name": "Printed Silk-Twill Drawstring Shorts",
+			"slug": "bottoms/bottom-4.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -245,19 +254,9 @@
 					}
 				}
 			],
-			"brand": "Amiri",
-			"price": {
-				"value": "990",
-				"currencyCode": "USD"
-			},
-			"color": "Black",
-			"richTextDescription": "AMIRI's SS20 show at Paris' Musée des Arts Décoratifs paid tribute to the spirit of Woodstock. These comfortable shorts are cut from smooth silk-twill and printed with symmetrical egrets, which are symbolic of peace and harmony. Use the drawstring waistband to adjust the fit.",
-			"name": "Printed Silk-Twill Drawstring Shorts",
-			"slug": "bottoms/bottom-4.html"
+			"brand": "Amiri"
 		},
 		{
-			"color": "Green",
-			"richTextDescription": "Nicknamed 'The Fashion Gardener' for his vibrant botanical prints, Mr Ken Scott helped develop the floral motifs we now so readily associate with the '60s and '70s. Gucci's silk-crepe shorts showcase oversized daisies from the American designer's archive and are appliquéd with an emblem on the back.",
 			"name": "Ken Scott Wide-Leg Floral-Print Silk-Crepe Shorts",
 			"slug": "bottoms/bottom-5.html",
 			"photoGallery": [
@@ -319,9 +318,19 @@
 			"price": {
 				"value": "980",
 				"currencyCode": "USD"
-			}
+			},
+			"color": "Green",
+			"richTextDescription": "Nicknamed 'The Fashion Gardener' for his vibrant botanical prints, Mr Ken Scott helped develop the floral motifs we now so readily associate with the '60s and '70s. Gucci's silk-crepe shorts showcase oversized daisies from the American designer's archive and are appliquéd with an emblem on the back."
 		},
 		{
+			"brand": "Gucci",
+			"price": {
+				"value": "950",
+				"currencyCode": "USD"
+			},
+			"color": "Gray",
+			"richTextDescription": "Gucci's AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit.",
+			"name": "Wide-Leg Pleated Wool-Flannel Shorts",
 			"slug": "bottoms/bottom-6.html",
 			"photoGallery": [
 				{
@@ -387,17 +396,10 @@
 						]
 					}
 				}
-			],
-			"brand": "Gucci",
-			"price": {
-				"value": "950",
-				"currencyCode": "USD"
-			},
-			"color": "Gray",
-			"richTextDescription": "Gucci's AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit.",
-			"name": "Wide-Leg Pleated Wool-Flannel Shorts"
+			]
 		},
 		{
+			"brand": "Gucci",
 			"price": {
 				"value": "40",
 				"currencyCode": "USD"
@@ -465,11 +467,9 @@
 						]
 					}
 				}
-			],
-			"brand": "Gucci"
+			]
 		},
 		{
-			"name": "Beige GG Logo Lounge Pants",
 			"slug": "bottoms/bottom-8.html",
 			"photoGallery": [
 				{
@@ -537,9 +537,19 @@
 				"currencyCode": "USD"
 			},
 			"color": "Camel",
-			"richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige."
+			"richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige.",
+			"name": "Beige GG Logo Lounge Pants"
 		},
 		{
+			"brand": "Palm Angels",
+			"price": {
+				"value": "470.99",
+				"currencyCode": "USD"
+			},
+			"color": "Light Blue",
+			"richTextDescription": "Relaxed\\-fit cotton poplin lounge pants striped in blue and white. High\\-rise. Graphic pattern printed in yellow and black throughout. Two\\-pocket styling. Belt loops at elasticized waistband. Detachable self\\-tie belt at waistband. Logo embroidered in blue at front leg.",
+			"name": "Blue Bear Pajama Lounge Pants",
+			"slug": "bottoms/bottom-9.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -599,18 +609,12 @@
 						]
 					}
 				}
-			],
-			"brand": "Palm Angels",
-			"price": {
-				"value": "470.99",
-				"currencyCode": "USD"
-			},
-			"color": "Light Blue",
-			"richTextDescription": "Relaxed\\-fit cotton poplin lounge pants striped in blue and white. High\\-rise. Graphic pattern printed in yellow and black throughout. Two\\-pocket styling. Belt loops at elasticized waistband. Detachable self\\-tie belt at waistband. Logo embroidered in blue at front leg.",
-			"name": "Blue Bear Pajama Lounge Pants",
-			"slug": "bottoms/bottom-9.html"
+			]
 		},
 		{
+			"brand": "Nina Ricci",
+			"color": "Lilac",
+			"richTextDescription": "Straight\\-leg cotton and silk\\-blend twill trousers in pink. High\\-rise. Four\\-pocket styling. Belt loops at waistband. Pleats at front. Flap pocket and hammer loop at outseams. Central creases at back. Zip\\-fly. Partial silk satin lining. Logo\\-engraved grey hardware.",
 			"name": "Pink Twill Cargo Trousers",
 			"slug": "bottoms/bottom-10.html",
 			"photoGallery": [
@@ -672,12 +676,10 @@
 						]
 					}
 				}
-			],
-			"brand": "Nina Ricci",
-			"color": "Lilac",
-			"richTextDescription": "Straight\\-leg cotton and silk\\-blend twill trousers in pink. High\\-rise. Four\\-pocket styling. Belt loops at waistband. Pleats at front. Flap pocket and hammer loop at outseams. Central creases at back. Zip\\-fly. Partial silk satin lining. Logo\\-engraved grey hardware."
+			]
 		},
 		{
+			"name": "Multicolor Faye Wei Wei Marbled Jeans",
 			"slug": "bottoms/bottom-11.html",
 			"photoGallery": [
 				{
@@ -741,8 +743,7 @@
 			],
 			"brand": "Chopova Lowena",
 			"color": "Multi",
-			"richTextDescription": "Wide\\-leg non\\-stretch denim jeans featuring pattern in multicolor throughout. Mid\\-rise. Two\\-pocket styling. Belt loops at waistband. Textile patch at front and back waistband. Zip\\-fly. Silver\\-tone hardware. Contrast stitching in tan.",
-			"name": "Multicolor Faye Wei Wei Marbled Jeans"
+			"richTextDescription": "Wide\\-leg non\\-stretch denim jeans featuring pattern in multicolor throughout. Mid\\-rise. Two\\-pocket styling. Belt loops at waistband. Textile patch at front and back waistband. Zip\\-fly. Silver\\-tone hardware. Contrast stitching in tan."
 		}
 	],
 	"id": "bottoms",
@@ -756,6 +757,5 @@
 		"updateTimestamp": "2021-11-09T14:28:33Z"
 	},
 	"name": "Bottoms",
-	"slug": "bottoms.html",
-	"richTextDescription": "Elevate your wardrobe with our collection of designer pants and trousers. Whether you're looking for formal officewear, casual pants for a relaxing weekend, or dress pants for your next evening engagement, you will be sure to find the perfect piece among our selection."
+	"slug": "bottoms.html"
 }
