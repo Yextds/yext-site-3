@@ -101,12 +101,6 @@
 			"richTextDescription": "Russell Westbrook backs up his brashness with a fast, aggressive playing style and numbers that place him among the league's best. His all-new Jordan One Take II embodies his edginess and speed. Colors, textures and design lines speak to Russ' persona both on and off the court."
 		},
 		{
-			"brand": "Nike",
-			"price": {
-				"value": "125",
-				"currencyCode": "USD"
-			},
-			"color": "Black/Tropical Twist/White/Multi-Color",
 			"richTextDescription": "Shatter the sneaker status quo in the Jordan MA2. It's built with a mix of diverse materials and design details that touch on the brand's heritage while forging a fresh identity. Easy to get on and off and comfortable all day, it wears with just about anything.",
 			"name": "Jordan MA2",
 			"slug": "shoes/shoe-3.html",
@@ -140,10 +134,15 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "Nike",
+			"price": {
+				"value": "125",
+				"currencyCode": "USD"
+			},
+			"color": "Black/Tropical Twist/White/Multi-Color"
 		},
 		{
-			"brand": "Nike",
 			"price": {
 				"value": "80",
 				"currencyCode": "USD"
@@ -182,7 +181,8 @@
 						]
 					}
 				}
-			]
+			],
+			"brand": "Nike"
 		},
 		{
 			"brand": "Nike",
@@ -226,6 +226,8 @@
 			]
 		},
 		{
+			"color": "Sail/Black/Team Orange",
+			"richTextDescription": "Kyrie Irving's ability to stop, go and cut while handling the ball is unrivaled. The Kyrie Low 3 enables agility and traction in multiple directions while helping keep quick-cutting players locked in over the cushioning. Its low-cut design has aggressive rubber tread that wraps up the sides and a secure midfoot strap for a secure on-court feel.",
 			"name": "Kyrie Low 3",
 			"slug": "shoes/shoe-6.html",
 			"photoGallery": [
@@ -263,11 +265,13 @@
 			"price": {
 				"value": "99.97",
 				"currencyCode": "USD"
-			},
-			"color": "Sail/Black/Team Orange",
-			"richTextDescription": "Kyrie Irving's ability to stop, go and cut while handling the ball is unrivaled. The Kyrie Low 3 enables agility and traction in multiple directions while helping keep quick-cutting players locked in over the cushioning. Its low-cut design has aggressive rubber tread that wraps up the sides and a secure midfoot strap for a secure on-court feel."
+			}
 		},
 		{
+			"color": "Crimson/Green Apple/Volt/White",
+			"richTextDescription": "Paul George is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.",
+			"name": "PG 4",
+			"slug": "shoes/shoe-7.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -303,11 +307,7 @@
 			"price": {
 				"value": "72.97",
 				"currencyCode": "USD"
-			},
-			"color": "Crimson/Green Apple/Volt/White",
-			"richTextDescription": "Paul George is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.",
-			"name": "PG 4",
-			"slug": "shoes/shoe-7.html"
+			}
 		},
 		{
 			"color": "University Blue/Multi-Color/Metallic Gold",
@@ -352,8 +352,6 @@
 			}
 		},
 		{
-			"name": "DIOR X AIR DJORDAN 1 HIGH",
-			"slug": "shoes/shoe-9.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -449,7 +447,9 @@
 				"currencyCode": "USD"
 			},
 			"color": "wolf grey/sail/photon dust/white",
-			"richTextDescription": "Part of a collection between the fashion house and Jordan Brand, the Dior x Air Jordan 1 High released in April 2020. The shoe's Italian leather upper appears in a mix of white and grey, with a Dior Oblique jacquard Swoosh contrasting the side wall. The tongue tag and 'Wings' logo sport co-branding, with further branding revealed by the icy translucent outsole."
+			"richTextDescription": "Part of a collection between the fashion house and Jordan Brand, the Dior x Air Jordan 1 High released in April 2020. The shoe's Italian leather upper appears in a mix of white and grey, with a Dior Oblique jacquard Swoosh contrasting the side wall. The tongue tag and 'Wings' logo sport co-branding, with further branding revealed by the icy translucent outsole.",
+			"name": "DIOR X AIR DJORDAN 1 HIGH",
+			"slug": "shoes/shoe-9.html"
 		},
 		{
 			"name": "AIR JORDAN 1 RETRO HIGH 'TOKYO BIO HACK'",
@@ -523,6 +523,7 @@
 			"richTextDescription": "The Air Jordan 1 Retro High OG 'Tokyo Bio Hack' features inspiration from the Japanese capital. The shoe's upper is built with a mix of leather and suede, finished in a color-blocked look that brings to mind Undefeated's Nike Dunk High NL collaboration from 2005. Underfoot, the painted Air midsole provides cushioning, giving way to a concentric outsole for traction."
 		},
 		{
+			"name": "Lightning McQueen Limited Edition Crocs",
 			"slug": "shoes/shoe-13.html",
 			"photoGallery": [
 				{
@@ -561,10 +562,11 @@
 				"currencyCode": "USD"
 			},
 			"color": "Fast Red",
-			"richTextDescription": "Original. Versatile. Comfortable.  \nIt's the iconic clog that started a comfort revolution around the world! The irreverent go\\-to comfort shoe that you're sure to fall deeper in love with day after day. There are only 10 pairs of the Lightning McQueen series world\\-wide due to his speed.",
-			"name": "Lightning McQueen Limited Edition Crocs"
+			"richTextDescription": "Original. Versatile. Comfortable.  \nIt's the iconic clog that started a comfort revolution around the world! The irreverent go\\-to comfort shoe that you're sure to fall deeper in love with day after day. There are only 10 pairs of the Lightning McQueen series world\\-wide due to his speed."
 		},
 		{
+			"name": "Jago Neoprene, Suede and Leather Sneakers",
+			"slug": "shoes/shoe-14.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -626,9 +628,7 @@
 				"currencyCode": "USD"
 			},
 			"color": "Orange",
-			"richTextDescription": "TOM FORD's 'Jago' sneakers mark the label's foray into streetwear - though it's worth noting that they're as exceptionally well-made as the brand's signature formalwear. Crafted in Italy from panels of leather, neoprene and suede, this chunky pair has cushioned insoles for support and is set on lightweight rubber soles.",
-			"name": "Jago Neoprene, Suede and Leather Sneakers",
-			"slug": "shoes/shoe-14.html"
+			"richTextDescription": "TOM FORD's 'Jago' sneakers mark the label's foray into streetwear - though it's worth noting that they're as exceptionally well-made as the brand's signature formalwear. Crafted in Italy from panels of leather, neoprene and suede, this chunky pair has cushioned insoles for support and is set on lightweight rubber soles."
 		},
 		{
 			"name": "Brighton Velvet Sandals",
@@ -763,6 +763,7 @@
 			"richTextDescription": "A dedication to excellence flows throughout Brunello Cucinelli's collections, from the tailoring to its meticulously crafted footwear. Designed with neat polished buckles, these sandals have suede straps and footbeds for a comfortable tread. The fabric will develop a characterful patina over time."
 		},
 		{
+			"slug": "shoes/shoe-17.html",
 			"photoGallery": [
 				{
 					"image": {
@@ -825,12 +826,9 @@
 			},
 			"color": "Pink",
 			"richTextDescription": "When comfort is your concern, Bottega Veneta's sandals offer ease and support. They've been made in Italy from smooth rubber and set on serrated soles for traction. The thick straps ensure a secure fit.",
-			"name": "Pink Rubber Sandals",
-			"slug": "shoes/shoe-17.html"
+			"name": "Pink Rubber Sandals"
 		},
 		{
-			"richTextDescription": "Part of the brand's 'GG Multicolour' capsule, Gucci's sandals celebrate the sheer joy of colour. They're made from monogrammed canvas and have moulded footbeds and gripped rubber soles for comfort.",
-			"name": "Leather-Trimmed Monogrammed Canvas Sandals",
 			"slug": "shoes/shoe-18.html",
 			"photoGallery": [
 				{
@@ -892,7 +890,9 @@
 				"value": "490",
 				"currencyCode": "USD"
 			},
-			"color": "Multi"
+			"color": "Multi",
+			"richTextDescription": "Part of the brand's 'GG Multicolour' capsule, Gucci's sandals celebrate the sheer joy of colour. They're made from monogrammed canvas and have moulded footbeds and gripped rubber soles for comfort.",
+			"name": "Leather-Trimmed Monogrammed Canvas Sandals"
 		}
 	],
 	"id": "shoes",

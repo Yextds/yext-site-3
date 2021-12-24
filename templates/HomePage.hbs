@@ -18,6 +18,7 @@
         "c_bannerImage",
         "c_bannerButtonLink",
         "c_bannerButtonText",
+        "c_newsletterSubscribeTitle",
 
         "c_arrivalTitle",
         "c_arrivalDescription",
@@ -100,15 +101,21 @@
                             {{/if}}
                         {{/each}}
 
-                        <a href="#" class="absolute bottom-0 left-0 w-full py-3 px-6 bg-primary text-white text-center text-sm font-medium uppercase transition-all duration-500 opacity-0 group-hover:opacity-100 invisible group-hover:visible hover:bg-secondary">
+                        <a href="{{slug}}" class="absolute bottom-0 left-0 w-full py-3 px-6 bg-primary text-white text-center text-sm font-medium uppercase transition-all duration-500 opacity-0 group-hover:opacity-100 invisible group-hover:visible hover:bg-secondary">
                             <svg class="w-4 h-4 inline-block mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
                                 <path fill="#fff" d="M569.354 231.631C512.969 135.949 407.81 72 288 72 168.14 72 63.004 135.994 6.646 231.631a47.999 47.999 0 0 0 0 48.739C63.031 376.051 168.19 440 288 440c119.86 0 224.996-63.994 281.354-159.631a47.997 47.997 0 0 0 0-48.738zM288 392c-75.162 0-136-60.827-136-136 0-75.162 60.826-136 136-136 75.162 0 136 60.826 136 136 0 75.162-60.826 136-136 136zm104-136c0 57.438-46.562 104-104 104s-104-46.562-104-104c0-17.708 4.431-34.379 12.236-48.973l-.001.032c0 23.651 19.173 42.823 42.824 42.823s42.824-19.173 42.824-42.823c0-23.651-19.173-42.824-42.824-42.824l-.032.001C253.621 156.431 270.292 152 288 152c57.438 0 104 46.562 104 104z"></path>
                             </svg>Quick View
                         </a>
                     </div>
-                    <div class="my-3 text-xs uppercase"><a class="inline-block text-black text-opacity-50 mx-1" href="#">Living</a><a href="#" class="inline-block text-black text-opacity-50 mx-1">Bedroom</a><a href="#" class="inline-block text-black text-opacity-50 mx-1">Dining</a></div>
-                    <h3 class="text-lg font-semibold mb-2"><a href="#" class="hover:text-primary text-clip truncate inline-block w-full">{{name}}</a></h3>
-                    <div class=""><strong class="font-medium">${{price.value}}</strong></div>
+                    <div class="my-3 text-xs uppercase">
+                        <a class="inline-block text-black text-opacity-50 mx-1" href="#">{{brand}}</a>
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">
+                        <a href="#" class="hover:text-primary text-clip truncate inline-block w-full">{{name}}</a>
+                    </h3>
+                    <div class="">
+                        <strong class="font-medium">${{price.value}}</strong>
+                    </div>
                 </div>
             {{/each}}
         </div>
@@ -134,7 +141,7 @@
                         <div class="absolute top-0 left-0 bottom-0 right-0 bg-black bg-opacity-30 transition-all duration-500 transform scale-0 group-hover:scale-100"></div>
                         <div class="absolute bottom-5 md:bottom-8 left-5 md:left-8 bg-white bg-opacity-95 p-4 w-40 text-left">
                             <h3 class="text-3xl font-semibold">{{name}}</h3>
-                            <a href="#" class="hover:text-primary">Explore 
+                            <a href="{{slug}}" class="hover:text-primary">Explore 
                                 <svg class="inline-block w-4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="25px" height="15px" viewBox="0 0 30 18" enable-background="new 0 0 30 18" xml:space="preserve">
                                     <path class="tatsu-svg-arrow-head" d="M20.305,16.212c-0.407,0.409-0.407,1.071,0,1.479s1.068,0.408,1.476,0l7.914-7.952c0.408-0.409,0.408-1.071,0-1.481
                                         l-7.914-7.952c-0.407-0.409-1.068-0.409-1.476,0s-0.407,1.071,0,1.48l7.185,7.221L20.305,16.212z"></path>
@@ -166,7 +173,7 @@
                                 <img class="absolute top-0 left-0 w-full h-full object-contain transition-all duration-1000 transform scale-100 group-hover:scale-150" src="{{image.url}}">
                             {{/if}}
                         {{/each}}
-                        <a href="#" class="absolute bottom-0 left-0 w-full py-3 px-6 bg-primary text-white text-center text-sm font-medium uppercase transition-all duration-500 opacity-0 group-hover:opacity-100 invisible group-hover:visible hover:bg-secondary">
+                        <a href="{{slug}}" class="absolute bottom-0 left-0 w-full py-3 px-6 bg-primary text-white text-center text-sm font-medium uppercase transition-all duration-500 opacity-0 group-hover:opacity-100 invisible group-hover:visible hover:bg-secondary">
                             <svg class="w-4 h-4 inline-block mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
                                 <path fill="#fff" d="M569.354 231.631C512.969 135.949 407.81 72 288 72 168.14 72 63.004 135.994 6.646 231.631a47.999 47.999 0 0 0 0 48.739C63.031 376.051 168.19 440 288 440c119.86 0 224.996-63.994 281.354-159.631a47.997 47.997 0 0 0 0-48.738zM288 392c-75.162 0-136-60.827-136-136 0-75.162 60.826-136 136-136 75.162 0 136 60.826 136 136 0 75.162-60.826 136-136 136zm104-136c0 57.438-46.562 104-104 104s-104-46.562-104-104c0-17.708 4.431-34.379 12.236-48.973l-.001.032c0 23.651 19.173 42.823 42.824 42.823s42.824-19.173 42.824-42.823c0-23.651-19.173-42.824-42.824-42.824l-.032.001C253.621 156.431 270.292 152 288 152c57.438 0 104 46.562 104 104z"></path>
                             </svg>Quick View
@@ -179,7 +186,64 @@
         </div>
     </div>
 
-    {{>newsletter}}
+    <div class="w-full py-10 lg:py-20" style="background-image: url(../images/newsletter-bg.jpg);">
+        <div class="text-white text-center px-4">
+            <h2 class="text-2xl md:text-4xl max-w-xl mx-auto font-semibold">{{c_newsletterSubscribeTitle}}</h2>
+            <form id="newsletter_form" action="javascript:;" class="flex flex-wrap md:flex-nowrap items-center justify-center max-w-xl mx-auto mt-7">
+                <input type="email" id="c_ns_email" name="c_ns_email" class="py-2 px-3 leading-7 bg-white rounded w-full focus:outline-none text-blackLight" required placeholder="Email">
+                <button id="submit-btn" type="submit" class="py-2 px-12 leading-7 md:ml-3 mt-5 md:mt-0 border-none rounded bg-primary text-white text-sm font-medium uppercase text-center transition-all duration-500 hover:bg-secondary focus:outline-none">Subscribe</button>
+            </form>
+        </div>
+    </div>
+
     {{>footer}}
 </body>
+<script>
+
+    $(document).ready(()=>{
+
+        $("#newsletter_form").on('submit',function(){
+            $.ajax({
+                url: "http://192.168.3.129:3005/secure/api", 
+                data : {
+                    'data' : {
+                    "method":"createEntity",
+                        "data":{
+                            'yext_insert' : {
+                                'name':'Dot',
+                                'c_ns_email': $("#c_ns_email").val(),
+                            },
+                            'yext_config' : {
+                                'entityTypes' : 'ce_newsletterSubscribe' 
+                            }
+                        }
+                    },
+                    'debug':'1'
+                },
+                type: "POST",
+                dataType: "json",
+                beforeSend: function(){
+                    $("#c_ns_email").prop('disabled',true);
+                    $('#submit-btn').prop('disabled',true);
+                    $('#submit-btn').html('Subscribing...');
+                },
+                success: function(result){
+                    $("#c_ns_email").prop('disabled',false);
+                    console.log(result);
+                    //if(result.status == 'success'){
+                    //}
+                    $('#submit-btn').prop('disabled',false);
+                    $('#submit-btn').html('Subscribe');
+                },
+                error: function(err){
+                    console.log(err.statusCode)
+                }
+            });
+        });
+
+        
+    });
+
+    
+</script>
 </html>

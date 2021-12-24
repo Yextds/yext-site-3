@@ -1,3 +1,13 @@
 {
-	"name": "Yext's Fashion Warehouse"
+	"name": "Yext's Fashion Warehouse",
+	"footer":[
+		{
+			"Categories":{
+			  "Bedroom":"link",
+			  "Dining":"link",
+			  "Living":"link",
+			  "Kids Room":"link"
+			}
+		}
+	]
 }
